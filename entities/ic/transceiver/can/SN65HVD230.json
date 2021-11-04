@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "b53f8773-ca2a-48fc-9ef2-4958298b5976": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "5d246126-1ef9-40e4-984c-14c7305001e8"
+        }
+    },
+    "manufacturer": "Texas Instruments",
+    "name": "SN65HVD230",
+    "prefix": "U",
+    "tags": [
+        "can",
+        "transceiver"
+    ],
+    "type": "entity",
+    "uuid": "42aa3f6f-7777-47ce-9ba2-9deb2e586afd"
+}

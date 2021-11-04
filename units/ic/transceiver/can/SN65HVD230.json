@@ -1,0 +1,60 @@
+{
+    "manufacturer": "Texas Instruments",
+    "name": "SN65HVD230",
+    "pins": {
+        "0865df0a-28b8-4ce8-9f85-28eda00145aa": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "CANH",
+            "swap_group": 0
+        },
+        "10b21a86-bfb4-4713-980e-5cb86b870bf0": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "1151def6-43f6-4d9b-9c1a-eeb17d35f23a": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "14fbb0a8-96aa-4e64-8768-cfbc8aa10de1": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "VREF",
+            "swap_group": 0
+        },
+        "2c3974fe-b753-4a6e-9dc2-9088ed74f959": {
+            "direction": "output",
+            "names": [
+                "R"
+            ],
+            "primary_name": "RXD",
+            "swap_group": 0
+        },
+        "3ce77ecc-bbf1-4f89-ab5f-f011b6df4aed": {
+            "direction": "input",
+            "names": [
+                "D"
+            ],
+            "primary_name": "TXD",
+            "swap_group": 0
+        },
+        "4be7bfd1-341b-4a30-bdb8-931cf6c8b604": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "RS",
+            "swap_group": 0
+        },
+        "c7789bed-0e55-486b-adc5-4bef7140612c": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "CANL",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "5d246126-1ef9-40e4-984c-14c7305001e8"
+}

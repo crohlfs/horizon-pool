@@ -1,0 +1,69 @@
+{
+    "MPN": [
+        false,
+        "SN65HVD230"
+    ],
+    "datasheet": [
+        false,
+        "https://www.ti.com/lit/ds/symlink/sn65hvd230.pd"
+    ],
+    "description": [
+        false,
+        "3.3v CAN Bus Transceiver"
+    ],
+    "entity": "42aa3f6f-7777-47ce-9ba2-9deb2e586afd",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Texas Instruments"
+    ],
+    "model": "b99785a3-c0da-4658-969d-6287cec3be05",
+    "package": "0932e22e-0cf7-46dc-b09c-4cc761a67608",
+    "pad_map": {
+        "17341892-a120-44e2-97ea-6e4f8e3d7da5": {
+            "gate": "b53f8773-ca2a-48fc-9ef2-4958298b5976",
+            "pin": "1151def6-43f6-4d9b-9c1a-eeb17d35f23a"
+        },
+        "29f18ab8-6cea-44fc-9bf5-4fb888f5245b": {
+            "gate": "b53f8773-ca2a-48fc-9ef2-4958298b5976",
+            "pin": "2c3974fe-b753-4a6e-9dc2-9088ed74f959"
+        },
+        "3d725e25-0d60-46cb-a21f-82462d3ce156": {
+            "gate": "b53f8773-ca2a-48fc-9ef2-4958298b5976",
+            "pin": "0865df0a-28b8-4ce8-9f85-28eda00145aa"
+        },
+        "51d7c05f-acae-46d5-9c26-2ea9d17bf7a8": {
+            "gate": "b53f8773-ca2a-48fc-9ef2-4958298b5976",
+            "pin": "3ce77ecc-bbf1-4f89-ab5f-f011b6df4aed"
+        },
+        "68b17b6f-ab52-4c2b-9389-c36d3c06eeef": {
+            "gate": "b53f8773-ca2a-48fc-9ef2-4958298b5976",
+            "pin": "10b21a86-bfb4-4713-980e-5cb86b870bf0"
+        },
+        "6f82c7c4-9578-4cb0-a92c-8b09534d5dc9": {
+            "gate": "b53f8773-ca2a-48fc-9ef2-4958298b5976",
+            "pin": "14fbb0a8-96aa-4e64-8768-cfbc8aa10de1"
+        },
+        "82d773fb-4473-4bd9-a879-a6ca2756055c": {
+            "gate": "b53f8773-ca2a-48fc-9ef2-4958298b5976",
+            "pin": "c7789bed-0e55-486b-adc5-4bef7140612c"
+        },
+        "b9ad4acf-f78d-438d-8b7b-e83ee0f9cc19": {
+            "gate": "b53f8773-ca2a-48fc-9ef2-4958298b5976",
+            "pin": "4be7bfd1-341b-4a30-bdb8-931cf6c8b604"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "can",
+        "ic",
+        "transceiver"
+    ],
+    "type": "part",
+    "uuid": "860b3ae0-4364-4980-9629-b8296815fd3b",
+    "value": [
+        false,
+        ""
+    ]
+}
