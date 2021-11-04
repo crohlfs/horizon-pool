@@ -1,0 +1,44 @@
+{
+    "manufacturer": "MPS",
+    "name": "MP2359",
+    "pins": {
+        "152c92ef-d512-40f8-9a37-606c7e8be620": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "EN",
+            "swap_group": 0
+        },
+        "45a91f5b-5546-46d0-b5e5-e5020342faa0": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "SW",
+            "swap_group": 0
+        },
+        "645c07ec-c0b4-48e7-a688-26f5688d2033": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "BST",
+            "swap_group": 0
+        },
+        "9bcef570-e7a8-4fff-ab21-dc322d9e2297": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "FB",
+            "swap_group": 0
+        },
+        "ad51f0cf-8d9f-4e05-8887-90b90903ef0d": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "e527ee76-b5a5-4f6b-ab70-d36af069d792": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "IN",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "372fa2c8-2d45-4f55-a493-4c390a2c1ad8"
+}
