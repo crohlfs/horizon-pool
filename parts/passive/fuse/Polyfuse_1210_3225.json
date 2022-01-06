@@ -1,0 +1,41 @@
+{
+    "MPN": [
+        false,
+        "Polyfuse_1210_3225"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Poly fuse"
+    ],
+    "entity": "e48a0b9a-d135-413a-8ff4-76e89708b2e4",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "8b25ff82-0c7a-4cd0-93c3-66786d620d63",
+    "package": "b94ec15d-39e1-4993-a528-0dd9a7b93d58",
+    "pad_map": {
+        "06fd3afc-17f5-41c0-86df-006f46588e0d": {
+            "gate": "0c5d9de9-a19d-49bb-9241-e72909685aab",
+            "pin": "7b5c6792-48f9-4308-9c80-a651376b2793"
+        },
+        "f8e5f600-449f-4080-975e-0c0b344d1f5c": {
+            "gate": "0c5d9de9-a19d-49bb-9241-e72909685aab",
+            "pin": "dad0fae6-4208-49ed-8858-d235cdd659ac"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "697de34c-12de-45f3-83dc-f90f0572e1c9",
+    "value": [
+        false,
+        ""
+    ]
+}

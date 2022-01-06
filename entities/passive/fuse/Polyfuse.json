@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "0c5d9de9-a19d-49bb-9241-e72909685aab": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "bdc4a9ec-1db3-4ca5-ad9e-dbac652e530b"
+        }
+    },
+    "manufacturer": "",
+    "name": "Polyfuse",
+    "prefix": "F",
+    "tags": [
+        "fuse"
+    ],
+    "type": "entity",
+    "uuid": "e48a0b9a-d135-413a-8ff4-76e89708b2e4"
+}

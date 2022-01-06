@@ -1,0 +1,20 @@
+{
+    "manufacturer": "",
+    "name": "Polyfuse",
+    "pins": {
+        "7b5c6792-48f9-4308-9c80-a651376b2793": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "1",
+            "swap_group": 0
+        },
+        "dad0fae6-4208-49ed-8858-d235cdd659ac": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "2",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "bdc4a9ec-1db3-4ca5-ad9e-dbac652e530b"
+}

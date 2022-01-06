@@ -1,0 +1,180 @@
+{
+    "arcs": {},
+    "default_model": "8b25ff82-0c7a-4cd0-93c3-66786d620d63",
+    "dimensions": {},
+    "grid_settings": {
+        "current": {
+            "mode": "square",
+            "name": "",
+            "origin": [
+                0,
+                0
+            ],
+            "spacing_rect": [
+                1000000,
+                1000000
+            ],
+            "spacing_square": 1000000
+        },
+        "grids": {}
+    },
+    "junctions": {
+        "0e2e47a6-07f4-458c-a3da-63813ffbcd97": {
+            "position": [
+                -602064,
+                1360000
+            ]
+        },
+        "0f79b1fd-244b-4b4a-a26b-9b48cf403e25": {
+            "position": [
+                602064,
+                1360000
+            ]
+        },
+        "1491d262-43b8-45dc-bc6a-77cd7575040b": {
+            "position": [
+                1600000,
+                1250000
+            ]
+        },
+        "25681ec1-5e04-4764-9fb5-955557ccf441": {
+            "position": [
+                602064,
+                -1360000
+            ]
+        },
+        "281b1f69-4b07-400e-a5d9-cba267111797": {
+            "position": [
+                -1600000,
+                1250000
+            ]
+        },
+        "7e27befa-9860-4db0-91ac-636b457ed116": {
+            "position": [
+                -1600000,
+                -1250000
+            ]
+        },
+        "bca748b8-8783-4e66-bd87-4cc9fdf2d109": {
+            "position": [
+                -602064,
+                -1360000
+            ]
+        },
+        "e957e2b0-b79a-4ab9-a68e-d17cb51c4eda": {
+            "position": [
+                1600000,
+                -1250000
+            ]
+        }
+    },
+    "keepouts": {},
+    "lines": {
+        "525c5d87-aafb-49bc-8662-0d3466e04e4f": {
+            "from": "0e2e47a6-07f4-458c-a3da-63813ffbcd97",
+            "layer": 20,
+            "to": "0f79b1fd-244b-4b4a-a26b-9b48cf403e25",
+            "width": 120000
+        },
+        "6544c06f-d8c3-4419-bdaf-69cbd8501c66": {
+            "from": "7e27befa-9860-4db0-91ac-636b457ed116",
+            "layer": 50,
+            "to": "281b1f69-4b07-400e-a5d9-cba267111797",
+            "width": 0
+        },
+        "a42f54d2-a530-4ec5-9cd3-2a31acaaf233": {
+            "from": "1491d262-43b8-45dc-bc6a-77cd7575040b",
+            "layer": 50,
+            "to": "e957e2b0-b79a-4ab9-a68e-d17cb51c4eda",
+            "width": 0
+        },
+        "c9dea685-3fba-40ed-813d-560d27d52df4": {
+            "from": "e957e2b0-b79a-4ab9-a68e-d17cb51c4eda",
+            "layer": 50,
+            "to": "7e27befa-9860-4db0-91ac-636b457ed116",
+            "width": 0
+        },
+        "f012a46b-e4eb-4781-9878-925da5b36b81": {
+            "from": "bca748b8-8783-4e66-bd87-4cc9fdf2d109",
+            "layer": 20,
+            "to": "25681ec1-5e04-4764-9fb5-955557ccf441",
+            "width": 120000
+        },
+        "f7778246-ba66-41c7-8a77-880ae6a6be59": {
+            "from": "281b1f69-4b07-400e-a5d9-cba267111797",
+            "layer": 50,
+            "to": "1491d262-43b8-45dc-bc6a-77cd7575040b",
+            "width": 0
+        }
+    },
+    "manufacturer": "",
+    "models": {
+        "8b25ff82-0c7a-4cd0-93c3-66786d620d63": {
+            "filename": "3d_models/fuse/Fuse_1210_3225Metric.step",
+            "pitch": 0,
+            "roll": 0,
+            "x": 0,
+            "y": 0,
+            "yaw": 0,
+            "z": 0
+        }
+    },
+    "name": "Fuse_1210_3225Metric",
+    "pads": {
+        "06fd3afc-17f5-41c0-86df-006f46588e0d": {
+            "name": "1",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 250000,
+                "pad_height": 2650000,
+                "pad_width": 1250000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -1400000,
+                    0
+                ]
+            }
+        },
+        "f8e5f600-449f-4080-975e-0c0b344d1f5c": {
+            "name": "2",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 250000,
+                "pad_height": 2650000,
+                "pad_width": 1250000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    1400000,
+                    0
+                ]
+            }
+        }
+    },
+    "parameter_program": "",
+    "parameter_set": {},
+    "polygons": {},
+    "rules": {
+        "clearance_package": {
+            "clearance_silkscreen_cu": 200000,
+            "clearance_silkscreen_pkg": 200000,
+            "enabled": true,
+            "order": -1
+        },
+        "package_checks": {
+            "enabled": true,
+            "order": -1
+        }
+    },
+    "tags": [
+        "fuse"
+    ],
+    "texts": {},
+    "type": "package",
+    "uuid": "b94ec15d-39e1-4993-a528-0dd9a7b93d58"
+}
