@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "891ae978-247d-4e5d-af10-6a83e9f362a9": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "78fe8146-c6c5-4f6e-8ed2-1561484b54d3"
+        }
+    },
+    "manufacturer": "",
+    "name": "RV-3029-C2",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "f41549b3-8c08-44d3-928e-8624717c6c94"
+}

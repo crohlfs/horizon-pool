@@ -1,0 +1,73 @@
+{
+    "MPN": [
+        false,
+        "RV-3029-C2"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        ""
+    ],
+    "entity": "f41549b3-8c08-44d3-928e-8624717c6c94",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "60797896-06dd-4df7-9c33-18dd76e41c74",
+    "pad_map": {
+        "02d998ff-c393-43cb-ae30-e824bf51172d": {
+            "gate": "891ae978-247d-4e5d-af10-6a83e9f362a9",
+            "pin": "142ac782-5e42-4112-a58e-17a81ba2bd8d"
+        },
+        "038ec0d0-3e4e-4241-91f2-cfebf1750f35": {
+            "gate": "891ae978-247d-4e5d-af10-6a83e9f362a9",
+            "pin": "0e5f3370-8278-48e7-8f92-6a7b8df0f85f"
+        },
+        "0d873c01-a960-4d5d-aea9-5045643f1a2d": {
+            "gate": "891ae978-247d-4e5d-af10-6a83e9f362a9",
+            "pin": "73cdbf48-4691-4d4b-938c-3e828bfbd6b4"
+        },
+        "1842a75c-ec14-4ae1-b8c4-4e911dba01e1": {
+            "gate": "891ae978-247d-4e5d-af10-6a83e9f362a9",
+            "pin": "146575b5-da16-4f3a-b7ae-1ccc1d5f7606"
+        },
+        "21d1e11b-88ba-43ab-abdd-a2dadc05a1ab": {
+            "gate": "891ae978-247d-4e5d-af10-6a83e9f362a9",
+            "pin": "f9245156-39b1-48ee-9ae1-3e2472aa42f1"
+        },
+        "353adaca-0f0d-4eb1-9811-c717b2045b1b": {
+            "gate": "891ae978-247d-4e5d-af10-6a83e9f362a9",
+            "pin": "3c30e141-7dd0-4e2a-ba04-83b5d8eb1490"
+        },
+        "4255f6ca-da0b-4fc4-87a4-8565320a27cb": {
+            "gate": "891ae978-247d-4e5d-af10-6a83e9f362a9",
+            "pin": "780063f8-6727-4579-8e39-c0bced4f74c6"
+        },
+        "5ac82a5c-04d9-4602-8760-a6615e870987": {
+            "gate": "891ae978-247d-4e5d-af10-6a83e9f362a9",
+            "pin": "0c53bc45-c8ef-4d83-93c3-f12610005371"
+        },
+        "6f4ddd5f-792d-4b26-a2aa-e0fd34cc900d": {
+            "gate": "891ae978-247d-4e5d-af10-6a83e9f362a9",
+            "pin": "604bc8dd-fa26-48ed-965d-222f36131fe3"
+        },
+        "c31d3862-4e13-4d85-b205-c090156225b1": {
+            "gate": "891ae978-247d-4e5d-af10-6a83e9f362a9",
+            "pin": "ed6aa46d-0c81-4245-b999-333d60299c90"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "e8f61e42-c539-4208-9c09-8bd13c943ee1",
+    "value": [
+        false,
+        ""
+    ]
+}
