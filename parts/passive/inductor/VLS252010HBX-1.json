@@ -1,0 +1,45 @@
+{
+    "MPN": [
+        false,
+        "VLS252010HBX-1"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Power Inductor (SMD)"
+    ],
+    "entity": "1d534e1d-704a-4d44-a6e6-c6106a2827ab",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "8f76e848-93cf-4127-b6e8-6820b7356226",
+    "package": "47b755b5-d9bc-43ee-ad8c-47fa2feffe2a",
+    "pad_map": {
+        "47adc442-8048-44e9-98f8-d0520721ebbc": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        },
+        "693f67b2-d0a1-4f09-8f43-d035ae7ece2f": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "inductor",
+        "passive",
+        "smd"
+    ],
+    "type": "part",
+    "uuid": "2d325767-7ab8-4571-b0ac-011fbaefc593",
+    "value": [
+        false,
+        ""
+    ]
+}
