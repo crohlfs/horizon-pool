@@ -1,0 +1,60 @@
+{
+    "MPN": [
+        false,
+        "DC3 2x03 1.27mm"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "DC3 2x03 1.27mm"
+    ],
+    "entity": "c92588a0-86ac-4b1c-aa07-b591777d2617",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "6f76147f-0bd4-4053-8849-ee0508deea52",
+    "package": "bba74070-d45e-4023-ab1b-c4d03bb8b45b",
+    "pad_map": {
+        "08c6c416-b3cc-45a1-acbe-963d4e795c51": {
+            "gate": "d5f74729-19b9-4eba-87f9-f789bd6babf8",
+            "pin": "c3b4ba45-ad58-43eb-9709-a71e815d9012"
+        },
+        "253c1346-6ce2-493e-a739-d323e6999107": {
+            "gate": "d5f74729-19b9-4eba-87f9-f789bd6babf8",
+            "pin": "b8924622-e129-4d44-a4ec-46cccc6fbcaf"
+        },
+        "5d5678a4-0b5b-491e-891f-34942b4dce11": {
+            "gate": "d5f74729-19b9-4eba-87f9-f789bd6babf8",
+            "pin": "4b24441b-cbeb-49bc-9a30-277a9a11c2b6"
+        },
+        "5fd31fe0-09d1-4251-bb18-834812333f20": {
+            "gate": "d5f74729-19b9-4eba-87f9-f789bd6babf8",
+            "pin": "d5465e9d-439d-4a9c-b2a6-9ff92edf1f63"
+        },
+        "ca2ce5ee-0f3e-427e-895d-db79717629b0": {
+            "gate": "d5f74729-19b9-4eba-87f9-f789bd6babf8",
+            "pin": "203bb8a2-729f-4d85-9078-2023b941401f"
+        },
+        "e240cd27-0926-49c1-8945-cc71c10665de": {
+            "gate": "d5f74729-19b9-4eba-87f9-f789bd6babf8",
+            "pin": "dd9ef2c9-0256-4f19-b1a9-2a4dffd82261"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector",
+        "idc"
+    ],
+    "type": "part",
+    "uuid": "1354f2ac-a37d-4e90-b245-d0069b5e587d",
+    "value": [
+        false,
+        ""
+    ]
+}

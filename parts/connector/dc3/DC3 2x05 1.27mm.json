@@ -1,0 +1,73 @@
+{
+    "MPN": [
+        false,
+        "DC3 2x05 1.27mm"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "DC3 2x05 1.27mm"
+    ],
+    "entity": "504f4bfc-0750-4221-89bb-1160fc2e6ee7",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "6f76147f-0bd4-4053-8849-ee0508deea52",
+    "package": "b3ba37be-290a-4278-9a36-682758093230",
+    "pad_map": {
+        "08c6c416-b3cc-45a1-acbe-963d4e795c51": {
+            "gate": "d0030b61-eea7-40e5-bb04-e8914c4f57d4",
+            "pin": "63a2f649-839c-488c-8d87-bfae6388ef1a"
+        },
+        "0b1b4679-b654-4fe4-be4a-a752bc7a1d49": {
+            "gate": "d0030b61-eea7-40e5-bb04-e8914c4f57d4",
+            "pin": "aa3df9df-f618-49c4-bbe4-36d4757a60ba"
+        },
+        "253c1346-6ce2-493e-a739-d323e6999107": {
+            "gate": "d0030b61-eea7-40e5-bb04-e8914c4f57d4",
+            "pin": "38db3294-dfc3-430b-92a1-2a1187c442ab"
+        },
+        "5d5678a4-0b5b-491e-891f-34942b4dce11": {
+            "gate": "d0030b61-eea7-40e5-bb04-e8914c4f57d4",
+            "pin": "f776e830-d17f-422f-adac-e6e5ebaee545"
+        },
+        "5fd31fe0-09d1-4251-bb18-834812333f20": {
+            "gate": "d0030b61-eea7-40e5-bb04-e8914c4f57d4",
+            "pin": "d1f34c2f-6541-401e-b843-81befc8d8f93"
+        },
+        "9e369b3b-b771-4b4f-bcda-ca8040eb7fbc": {
+            "gate": "d0030b61-eea7-40e5-bb04-e8914c4f57d4",
+            "pin": "4c3f7b77-060a-4cc8-9589-5b33c9d3b678"
+        },
+        "ca2ce5ee-0f3e-427e-895d-db79717629b0": {
+            "gate": "d0030b61-eea7-40e5-bb04-e8914c4f57d4",
+            "pin": "c4b28d29-3d36-426c-9e96-e3c874a781ac"
+        },
+        "d8546669-a535-4ecf-9328-2d9c0557e588": {
+            "gate": "d0030b61-eea7-40e5-bb04-e8914c4f57d4",
+            "pin": "1cca2e10-ef16-4885-9ecc-9ee7fdbb7a4a"
+        },
+        "e240cd27-0926-49c1-8945-cc71c10665de": {
+            "gate": "d0030b61-eea7-40e5-bb04-e8914c4f57d4",
+            "pin": "3db7fe02-604e-4960-b2b1-0578f4782512"
+        },
+        "e9007018-d20b-438a-9a84-0f291e553538": {
+            "gate": "d0030b61-eea7-40e5-bb04-e8914c4f57d4",
+            "pin": "7222169d-2694-4b74-ae22-5ad906606f99"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "422948d7-52f6-4de8-83f7-b9f00d1d9974",
+    "value": [
+        false,
+        ""
+    ]
+}
