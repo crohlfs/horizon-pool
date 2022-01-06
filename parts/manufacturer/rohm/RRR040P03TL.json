@@ -1,0 +1,45 @@
+{
+    "MPN": [
+        false,
+        "RRR040P03TL"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Power MOSFET"
+    ],
+    "entity": "f1cafe55-ca30-4a2f-9c9e-ae06f9ea7859",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "cfe16609-d00d-45ae-8fa8-b68f89d6b196",
+    "package": "9ed61b48-7faf-4384-ad8f-130f3ee30197",
+    "pad_map": {
+        "004c94f6-e106-4062-9293-19b4fff7d832": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "4887ef47-94f0-4fd1-b552-c424bd37a3e7"
+        },
+        "bfade366-4277-40c9-918e-2773dad47264": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "074c3718-08fd-4f94-88fc-2bb43174b245"
+        },
+        "d893ec86-639c-4e71-bf75-7cdc5f5ab9ab": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "eb63ac9a-5d7e-42e2-92ea-a140a97f47d0"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "48f28ae6-f143-4d80-8fd2-05142ddcd0ae",
+    "value": [
+        false,
+        ""
+    ]
+}
