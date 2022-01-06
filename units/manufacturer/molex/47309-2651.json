@@ -1,0 +1,80 @@
+{
+    "manufacturer": "Molex",
+    "name": "47309-2651",
+    "pins": {
+        "018ae4b9-eed2-476e-9c1b-4bc9c69e32dc": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DET",
+            "swap_group": 0
+        },
+        "327719a3-7c99-43af-b820-fa0e90ef08dc": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "368cac4a-b304-4c4f-be82-8fa1cdee68e8": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CMD",
+            "swap_group": 0
+        },
+        "443b3d9f-48b5-483e-816d-270fcef486e6": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "5a75a238-30bd-4366-8edb-2c67a0bd5d44": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CLK",
+            "swap_group": 0
+        },
+        "6fa63b87-48b7-4e85-a52d-db15c986a992": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DAT2",
+            "swap_group": 0
+        },
+        "7d751bb5-c98e-4297-9258-f3de0bcb8cd0": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "VSS",
+            "swap_group": 0
+        },
+        "a235abea-5756-4816-b2ab-d925bb0af6d4": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DAT1",
+            "swap_group": 0
+        },
+        "a6e289fe-4642-4621-80b3-b783c1a67616": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DAT0",
+            "swap_group": 0
+        },
+        "c996b03a-e225-467f-8b40-4494ed22031f": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "d282570b-ff8e-4e08-b169-17c3a8c61108": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CD/DAT3",
+            "swap_group": 0
+        },
+        "d8f49dfd-0735-4867-8d2f-94e37c5ce1cd": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "POL",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "c70cc5e5-c9d4-4c08-aa6c-da712b436663"
+}

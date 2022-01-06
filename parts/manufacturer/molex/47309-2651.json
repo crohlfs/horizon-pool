@@ -1,0 +1,81 @@
+{
+    "MPN": [
+        false,
+        "47309-2651"
+    ],
+    "datasheet": [
+        false,
+        "https://www.molex.com/molex/products/datasheet.jsp?part=active/0473092651_MEMORY_CARD_SOCKET.xml&channel=Products&Lang=en-US"
+    ],
+    "description": [
+        false,
+        "47309-2651"
+    ],
+    "entity": "87ff226b-9bbd-46f2-a974-acb308babd0a",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "7d98205d-a273-40f0-b4bf-3b5007de08af",
+    "pad_map": {
+        "35fbb1cd-0148-4b73-b871-deb4520811ae": {
+            "gate": "68fb1c78-f62d-4661-a2d3-8f818f3f802a",
+            "pin": "d8f49dfd-0735-4867-8d2f-94e37c5ce1cd"
+        },
+        "4c41d5b8-ccbc-4e4e-a02f-a73b5606a2f6": {
+            "gate": "68fb1c78-f62d-4661-a2d3-8f818f3f802a",
+            "pin": "443b3d9f-48b5-483e-816d-270fcef486e6"
+        },
+        "672fab4e-6878-4488-93d9-c4e3de4eaa33": {
+            "gate": "68fb1c78-f62d-4661-a2d3-8f818f3f802a",
+            "pin": "327719a3-7c99-43af-b820-fa0e90ef08dc"
+        },
+        "82e27003-fc9f-4704-affc-a946ed07275d": {
+            "gate": "68fb1c78-f62d-4661-a2d3-8f818f3f802a",
+            "pin": "a6e289fe-4642-4621-80b3-b783c1a67616"
+        },
+        "89ee0634-7725-467f-be64-261a7e045ac2": {
+            "gate": "68fb1c78-f62d-4661-a2d3-8f818f3f802a",
+            "pin": "a235abea-5756-4816-b2ab-d925bb0af6d4"
+        },
+        "91d99456-16bf-4806-bef9-f72b4e75db16": {
+            "gate": "68fb1c78-f62d-4661-a2d3-8f818f3f802a",
+            "pin": "6fa63b87-48b7-4e85-a52d-db15c986a992"
+        },
+        "b5970f0e-fdca-44de-bd9e-0369300cdf57": {
+            "gate": "68fb1c78-f62d-4661-a2d3-8f818f3f802a",
+            "pin": "7d751bb5-c98e-4297-9258-f3de0bcb8cd0"
+        },
+        "b869c9a0-9720-45d9-80f5-46eca68af6c5": {
+            "gate": "68fb1c78-f62d-4661-a2d3-8f818f3f802a",
+            "pin": "368cac4a-b304-4c4f-be82-8fa1cdee68e8"
+        },
+        "bd05831e-9454-46ea-bcb3-eb82fd9188c1": {
+            "gate": "68fb1c78-f62d-4661-a2d3-8f818f3f802a",
+            "pin": "018ae4b9-eed2-476e-9c1b-4bc9c69e32dc"
+        },
+        "cf883db3-d962-458f-9792-94927a9877be": {
+            "gate": "68fb1c78-f62d-4661-a2d3-8f818f3f802a",
+            "pin": "5a75a238-30bd-4366-8edb-2c67a0bd5d44"
+        },
+        "e1731748-9e46-426a-8f8c-0295f525b833": {
+            "gate": "68fb1c78-f62d-4661-a2d3-8f818f3f802a",
+            "pin": "d282570b-ff8e-4e08-b169-17c3a8c61108"
+        },
+        "fab4ff1d-01d2-4598-a604-0c7d62c24706": {
+            "gate": "68fb1c78-f62d-4661-a2d3-8f818f3f802a",
+            "pin": "c996b03a-e225-467f-8b40-4494ed22031f"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "8bd818b0-0ad6-4386-a3a7-f1804b56b8eb",
+    "value": [
+        false,
+        ""
+    ]
+}
