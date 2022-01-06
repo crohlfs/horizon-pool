@@ -1,0 +1,198 @@
+{
+    "manufacturer": "ST",
+    "name": "VNQ5027AK-E",
+    "pins": {
+        "00af88e5-589d-40d6-b522-659c7df59b67": {
+            "direction": "output",
+            "names": [
+                "OUTPUT3_3"
+            ],
+            "primary_name": "OUT3_3",
+            "swap_group": 0
+        },
+        "01195541-a8ad-4519-8d37-3122f106e16d": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC_PAD",
+            "swap_group": 0
+        },
+        "11074943-340c-4360-8909-b89c9e571151": {
+            "direction": "input",
+            "names": [
+                "INPUT4"
+            ],
+            "primary_name": "IN4",
+            "swap_group": 0
+        },
+        "115ef9ea-6d4e-4758-975c-77959f5c7c18": {
+            "direction": "output",
+            "names": [
+                "OUTPUT4_1"
+            ],
+            "primary_name": "OUT4_1",
+            "swap_group": 0
+        },
+        "17979c47-0b0c-4993-9dbf-8e0a5eea6b64": {
+            "direction": "output",
+            "names": [
+                "OUTPUT3_1"
+            ],
+            "primary_name": "OUT3_1",
+            "swap_group": 0
+        },
+        "346983c2-8f0e-486d-a8df-1011025e3956": {
+            "direction": "input",
+            "names": [
+                "INPUT3"
+            ],
+            "primary_name": "IN3",
+            "swap_group": 0
+        },
+        "389fd9a2-ef45-4911-b08f-852f241be561": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CS_DIS",
+            "swap_group": 0
+        },
+        "3dd5f6db-7fe8-43fd-b883-32e3b74b5fc8": {
+            "direction": "output",
+            "names": [
+                "OUTPUT1_1"
+            ],
+            "primary_name": "OUT1_1",
+            "swap_group": 0
+        },
+        "3e59210a-719d-4ade-a3fa-71f172d6b9e5": {
+            "direction": "output",
+            "names": [
+                "CURRENT_SENSE1"
+            ],
+            "primary_name": "CS1",
+            "swap_group": 0
+        },
+        "4194d40c-a908-4909-99f6-f1faa4d2c28d": {
+            "direction": "input",
+            "names": [
+                "INPUT2"
+            ],
+            "primary_name": "IN2",
+            "swap_group": 0
+        },
+        "58e98e99-fa2c-4935-84f5-e60fcebcf6ab": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "6ade5d3e-5175-4e3e-81e2-72583c1acfcc": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC_2",
+            "swap_group": 0
+        },
+        "6b0f0d5f-b56a-4eee-8d9f-7dff8c1fd807": {
+            "direction": "output",
+            "names": [
+                "OUTPUT1_2"
+            ],
+            "primary_name": "OUT1_2",
+            "swap_group": 0
+        },
+        "6ebda7f3-80fe-4acc-8466-973007030bb2": {
+            "direction": "output",
+            "names": [
+                "OUTPUT1_3"
+            ],
+            "primary_name": "OUT1_3",
+            "swap_group": 0
+        },
+        "8c791ea3-664e-4d51-885c-cbfe71639578": {
+            "direction": "output",
+            "names": [
+                "CURRENT_SENSE4"
+            ],
+            "primary_name": "CS4",
+            "swap_group": 0
+        },
+        "96f7e789-39fd-475e-8091-dadb568d6b60": {
+            "direction": "output",
+            "names": [
+                "OUTPUT4_3"
+            ],
+            "primary_name": "OUT4_3",
+            "swap_group": 0
+        },
+        "ad59a456-7897-47b6-b87f-f640e7dc11a6": {
+            "direction": "output",
+            "names": [
+                "OUTPUT2_2"
+            ],
+            "primary_name": "OUT2_2",
+            "swap_group": 0
+        },
+        "ae6f768a-ac62-4108-8f30-dfe1c38810bd": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC_1",
+            "swap_group": 0
+        },
+        "af25e332-666b-4050-8f66-31edd0bbd7bc": {
+            "direction": "output",
+            "names": [
+                "CURRENT_SENSE2"
+            ],
+            "primary_name": "CS2",
+            "swap_group": 0
+        },
+        "b2997322-e373-4534-9740-059b266d5e61": {
+            "direction": "output",
+            "names": [
+                "OUTPUT2_3"
+            ],
+            "primary_name": "OUT2_3",
+            "swap_group": 0
+        },
+        "b9fa5c1a-4e40-438b-9949-bc1509e519b1": {
+            "direction": "output",
+            "names": [
+                "OUTPUT3_2"
+            ],
+            "primary_name": "OUT3_2",
+            "swap_group": 0
+        },
+        "bdb39e35-be73-48de-a135-e07e864b21c5": {
+            "direction": "output",
+            "names": [
+                "CURRENT_SENSE3"
+            ],
+            "primary_name": "CS3",
+            "swap_group": 0
+        },
+        "d6e8eb49-61a3-4937-a5a8-5bbf02ee2953": {
+            "direction": "output",
+            "names": [
+                "OUTPUT2_1"
+            ],
+            "primary_name": "OUT2_1",
+            "swap_group": 0
+        },
+        "dfa9ea8d-bb6f-40d6-ad7c-e8bbfb0b3851": {
+            "direction": "output",
+            "names": [
+                "OUTPUT4_2"
+            ],
+            "primary_name": "OUT4_2",
+            "swap_group": 0
+        },
+        "e21ce7da-4c7b-44ab-ba63-69099f35471c": {
+            "direction": "input",
+            "names": [
+                "INPUT1"
+            ],
+            "primary_name": "IN1",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "d5f30fa0-8493-4411-b034-345373df929e"
+}

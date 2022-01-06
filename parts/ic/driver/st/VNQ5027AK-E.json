@@ -1,0 +1,133 @@
+{
+    "MPN": [
+        false,
+        "VNQ5027AK-E"
+    ],
+    "datasheet": [
+        false,
+        "https://www.st.com/resource/en/datasheet/vnq5027ak-e.pdf"
+    ],
+    "description": [
+        false,
+        "Quad channel high side driver with analog current sense for automotive applications"
+    ],
+    "entity": "35c01a37-5b0e-4bf6-ac06-58ea6fff40d4",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "ST"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "32ba2f9a-8a3b-4d6a-81cc-2bf15e00d5d1",
+    "pad_map": {
+        "04448881-dfb4-465f-86e1-eb16456e9632": {
+            "gate": "3b570cac-4725-43f8-a547-c3607d560198",
+            "pin": "58e98e99-fa2c-4935-84f5-e60fcebcf6ab"
+        },
+        "0b7f5ec6-fc1f-4ee2-b078-2dc8ff71b606": {
+            "gate": "3b570cac-4725-43f8-a547-c3607d560198",
+            "pin": "115ef9ea-6d4e-4758-975c-77959f5c7c18"
+        },
+        "0c5b69eb-1cdd-403a-91c5-5f4e61d4e4ef": {
+            "gate": "3b570cac-4725-43f8-a547-c3607d560198",
+            "pin": "b2997322-e373-4534-9740-059b266d5e61"
+        },
+        "1b704f79-e4f9-4a11-89d9-1f58f3b30629": {
+            "gate": "3b570cac-4725-43f8-a547-c3607d560198",
+            "pin": "ad59a456-7897-47b6-b87f-f640e7dc11a6"
+        },
+        "26ea885a-6e1f-4628-8984-0c8ad3047c60": {
+            "gate": "3b570cac-4725-43f8-a547-c3607d560198",
+            "pin": "dfa9ea8d-bb6f-40d6-ad7c-e8bbfb0b3851"
+        },
+        "29aa046e-2bbc-4f0f-9e1d-049f7924a079": {
+            "gate": "3b570cac-4725-43f8-a547-c3607d560198",
+            "pin": "346983c2-8f0e-486d-a8df-1011025e3956"
+        },
+        "41cce5d7-5c53-4e56-b7ff-d302572cdac1": {
+            "gate": "3b570cac-4725-43f8-a547-c3607d560198",
+            "pin": "8c791ea3-664e-4d51-885c-cbfe71639578"
+        },
+        "53367cea-0e93-4b55-9a8b-17fa775c6db1": {
+            "gate": "3b570cac-4725-43f8-a547-c3607d560198",
+            "pin": "b9fa5c1a-4e40-438b-9949-bc1509e519b1"
+        },
+        "654e08d0-df99-4792-bf98-9cf414bee348": {
+            "gate": "3b570cac-4725-43f8-a547-c3607d560198",
+            "pin": "17979c47-0b0c-4993-9dbf-8e0a5eea6b64"
+        },
+        "65fe006a-2509-4d8d-8246-5ffc78b362ef": {
+            "gate": "3b570cac-4725-43f8-a547-c3607d560198",
+            "pin": "e21ce7da-4c7b-44ab-ba63-69099f35471c"
+        },
+        "6d9ffcd1-ea8c-41c1-869e-70ee11dae134": {
+            "gate": "3b570cac-4725-43f8-a547-c3607d560198",
+            "pin": "3dd5f6db-7fe8-43fd-b883-32e3b74b5fc8"
+        },
+        "70fd60bc-92f8-400d-a21c-104590cd0f53": {
+            "gate": "3b570cac-4725-43f8-a547-c3607d560198",
+            "pin": "00af88e5-589d-40d6-b522-659c7df59b67"
+        },
+        "7287177e-e43a-49b7-ad02-9b8f86d00297": {
+            "gate": "3b570cac-4725-43f8-a547-c3607d560198",
+            "pin": "6b0f0d5f-b56a-4eee-8d9f-7dff8c1fd807"
+        },
+        "8dc1864b-f1ba-435b-b7e3-6e78c00a542b": {
+            "gate": "3b570cac-4725-43f8-a547-c3607d560198",
+            "pin": "11074943-340c-4360-8909-b89c9e571151"
+        },
+        "9477f93b-91fd-4ba6-876c-3a9cc80b1f56": {
+            "gate": "3b570cac-4725-43f8-a547-c3607d560198",
+            "pin": "ae6f768a-ac62-4108-8f30-dfe1c38810bd"
+        },
+        "9717aef5-f2fb-45c1-a3f6-7155af4bf448": {
+            "gate": "3b570cac-4725-43f8-a547-c3607d560198",
+            "pin": "6ebda7f3-80fe-4acc-8466-973007030bb2"
+        },
+        "97e1b152-2ee7-4684-9648-b23b3101ed6c": {
+            "gate": "3b570cac-4725-43f8-a547-c3607d560198",
+            "pin": "389fd9a2-ef45-4911-b08f-852f241be561"
+        },
+        "9cffca87-2a33-4c1a-ac3f-5885601bec18": {
+            "gate": "3b570cac-4725-43f8-a547-c3607d560198",
+            "pin": "af25e332-666b-4050-8f66-31edd0bbd7bc"
+        },
+        "b4aa8a61-afcb-4ad0-9d3b-809af7358bcd": {
+            "gate": "3b570cac-4725-43f8-a547-c3607d560198",
+            "pin": "d6e8eb49-61a3-4937-a5a8-5bbf02ee2953"
+        },
+        "bb8b01b0-6723-4a8e-aab9-d755c0840a10": {
+            "gate": "3b570cac-4725-43f8-a547-c3607d560198",
+            "pin": "96f7e789-39fd-475e-8091-dadb568d6b60"
+        },
+        "bf332b18-9940-4710-9703-c7133f250bfa": {
+            "gate": "3b570cac-4725-43f8-a547-c3607d560198",
+            "pin": "01195541-a8ad-4519-8d37-3122f106e16d"
+        },
+        "c4028f29-cc71-43c9-8c7a-a5fdf66e41f1": {
+            "gate": "3b570cac-4725-43f8-a547-c3607d560198",
+            "pin": "3e59210a-719d-4ade-a3fa-71f172d6b9e5"
+        },
+        "c7226668-235a-495e-867a-b4d09f6ed48f": {
+            "gate": "3b570cac-4725-43f8-a547-c3607d560198",
+            "pin": "bdb39e35-be73-48de-a135-e07e864b21c5"
+        },
+        "c772185f-f093-4c5a-8491-93d5da5449f6": {
+            "gate": "3b570cac-4725-43f8-a547-c3607d560198",
+            "pin": "4194d40c-a908-4909-99f6-f1faa4d2c28d"
+        },
+        "f71e8cf4-2bd5-408a-b553-9d4c00e4ed2a": {
+            "gate": "3b570cac-4725-43f8-a547-c3607d560198",
+            "pin": "6ade5d3e-5175-4e3e-81e2-72583c1acfcc"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "95b30b35-5b5d-4e0c-b400-7e95a360d875",
+    "value": [
+        false,
+        ""
+    ]
+}

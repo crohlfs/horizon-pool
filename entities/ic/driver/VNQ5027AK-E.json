@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "3b570cac-4725-43f8-a547-c3607d560198": {
+            "name": "",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "d5f30fa0-8493-4411-b034-345373df929e"
+        }
+    },
+    "manufacturer": "ST",
+    "name": "VNQ5027AK-E",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "35c01a37-5b0e-4bf6-ac06-58ea6fff40d4"
+}
