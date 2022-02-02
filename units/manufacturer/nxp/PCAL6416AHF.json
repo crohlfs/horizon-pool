@@ -1,0 +1,158 @@
+{
+    "manufacturer": "",
+    "name": "PCAL6416AHF,128",
+    "pins": {
+        "0b3ab39d-a4fd-4f3e-82c7-5d0e1cb0f905": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "P1_7",
+            "swap_group": 0
+        },
+        "0ed18507-b6c9-42e8-9e05-6105137b0fab": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "P1_3",
+            "swap_group": 0
+        },
+        "0f23951a-d6cf-45b9-adbf-ce7abcf6a0c2": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "ADDR",
+            "swap_group": 0
+        },
+        "10391fd3-f275-43bf-bb29-04f13c94e52d": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "P1_1",
+            "swap_group": 0
+        },
+        "12aa0143-6c65-4e2b-bf48-15dfe5e5c848": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "VDD(I2C-BUS)",
+            "swap_group": 0
+        },
+        "17d4a78d-3fba-45aa-891d-1e0caefbd6be": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "VDD(P)",
+            "swap_group": 0
+        },
+        "1cbcbc61-f681-40a0-a126-1b56900441a1": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "P0_7",
+            "swap_group": 0
+        },
+        "1cf0d71a-f089-4573-be18-3fde61ca0ec8": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "P1_6",
+            "swap_group": 0
+        },
+        "23ebb924-5ab9-46ad-a592-375a64cc5b09": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "EP",
+            "swap_group": 0
+        },
+        "26c8e634-0f49-42d4-b3df-b7f3485ae946": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "~RESET",
+            "swap_group": 0
+        },
+        "44939c8b-b212-459a-a105-214007912954": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "P0_0",
+            "swap_group": 0
+        },
+        "594eb739-6eaa-40e7-b536-d32b6f3a5be8": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "P1_5",
+            "swap_group": 0
+        },
+        "5d2b0898-e3d4-4fde-b155-198c5acd9c90": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "P0_4",
+            "swap_group": 0
+        },
+        "640ecd2a-fb4f-43b0-b260-c139554c70b6": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "P1_2",
+            "swap_group": 0
+        },
+        "6eecacda-51bd-4b14-9b2c-b38730e2d30d": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "SDA",
+            "swap_group": 0
+        },
+        "7121e192-e6db-4b98-9b78-3adfb278bb7b": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "P0_3",
+            "swap_group": 0
+        },
+        "73d88c5e-f828-403a-b350-a746fd37d15d": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "~INT",
+            "swap_group": 0
+        },
+        "936ba8f6-27de-40dd-b2af-9179491cabcc": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "SCL",
+            "swap_group": 0
+        },
+        "af7acfa2-8bea-459b-8607-98f1c2f58ed8": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "P0_5",
+            "swap_group": 0
+        },
+        "b8265116-f7a1-4fa3-ba35-5ef406a35530": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "P0_6",
+            "swap_group": 0
+        },
+        "bbd6e095-42ad-4b06-bb3f-a0e818f2d5f3": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "P0_1",
+            "swap_group": 0
+        },
+        "c8ec9b4c-fe79-4380-97a7-80224e9e0a3a": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "VSS",
+            "swap_group": 0
+        },
+        "ca0ba40d-4b07-4f54-bac1-1f85ec13806e": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "P0_2",
+            "swap_group": 0
+        },
+        "f152a44a-c7f7-48a5-9d87-2402d6c07c9c": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "P1_0",
+            "swap_group": 0
+        },
+        "fa144807-7ccd-47c0-acb4-809a183541f3": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "P1_4",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "b35b80ed-b926-41f5-b5ae-b394218321bb"
+}

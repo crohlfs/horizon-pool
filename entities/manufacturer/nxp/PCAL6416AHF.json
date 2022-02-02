@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "35b73765-9453-43ac-8879-a34b5f9589fe": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "b35b80ed-b926-41f5-b5ae-b394218321bb"
+        }
+    },
+    "manufacturer": "",
+    "name": "PCAL6416AHF,128",
+    "prefix": "IC",
+    "tags": [],
+    "type": "entity",
+    "uuid": "bdadfb46-1a17-4204-a902-0220735e7d98"
+}
