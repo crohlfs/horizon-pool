@@ -1,0 +1,65 @@
+{
+    "MPN": [
+        false,
+        "RFW 090 8P"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "RFW 8 pin"
+    ],
+    "entity": "771a429f-983f-4758-b6d4-80e107ae9f8e",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Furukawa"
+    ],
+    "model": "39e2ba38-a491-4c98-b9a0-3ede767bef31",
+    "package": "40328e0e-4a03-4d2e-8adc-c82ad6071157",
+    "pad_map": {
+        "0f789470-ecc4-4773-868e-d41da79cff0a": {
+            "gate": "58d54dd5-80b0-4554-9145-748a613a6042",
+            "pin": "1a7a9b72-a0d1-4ee1-91f9-45265c2b41bb"
+        },
+        "615264ab-9a4a-4b0b-a070-c68bd3abd612": {
+            "gate": "58d54dd5-80b0-4554-9145-748a613a6042",
+            "pin": "65a73301-97c0-40b6-8138-4fcd12815dc0"
+        },
+        "659b6539-c0fb-4255-b8a8-e321854b0be8": {
+            "gate": "58d54dd5-80b0-4554-9145-748a613a6042",
+            "pin": "394fe994-72b0-4e01-9a0b-c463902d55e8"
+        },
+        "9602c5f6-ea74-4881-ba7c-bdc21a42b891": {
+            "gate": "58d54dd5-80b0-4554-9145-748a613a6042",
+            "pin": "3256695a-0b7e-4ed5-a6e6-4f9afb354f54"
+        },
+        "97e95915-44e7-4cdd-a418-b3d9d8fd5b9c": {
+            "gate": "58d54dd5-80b0-4554-9145-748a613a6042",
+            "pin": "e95ff9ae-5dce-4a5d-bc8a-158c688b9a0e"
+        },
+        "d74c9d12-576f-4570-8611-b63c1ca17c64": {
+            "gate": "58d54dd5-80b0-4554-9145-748a613a6042",
+            "pin": "01ff6735-94f0-415a-9ce6-55b0515c1cd1"
+        },
+        "e995c568-e064-4799-b2dd-589b80b428a2": {
+            "gate": "58d54dd5-80b0-4554-9145-748a613a6042",
+            "pin": "fa73ec1a-10bc-4280-aa96-1b222e566826"
+        },
+        "f5e59c03-6b31-4182-810d-7ce610ab7072": {
+            "gate": "58d54dd5-80b0-4554-9145-748a613a6042",
+            "pin": "e137d258-e055-4644-b9a5-fad874553ddf"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "1967ed4f-1a76-46b8-8575-17ffd3d4e209",
+    "value": [
+        false,
+        ""
+    ]
+}
