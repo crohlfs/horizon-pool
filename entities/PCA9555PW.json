@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "6647c6a0-075e-4000-96df-0fc6e53e6e6a": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "f8b327b1-ff20-43b8-9803-d822ee850b86"
+        }
+    },
+    "manufacturer": "",
+    "name": "PCA9555PW",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "f369dc4d-359b-4e7d-b7b3-a28c8e473a82"
+}

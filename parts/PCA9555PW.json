@@ -1,0 +1,129 @@
+{
+    "MPN": [
+        false,
+        "PCA9555PW"
+    ],
+    "datasheet": [
+        false,
+        "https://www.nxp.com/docs/en/data-sheet/PCA9555.pdf"
+    ],
+    "description": [
+        false,
+        "IO expander 16 GPIO, I2C 400kHz, Interrupt, 2.3 - 5.5V, TSSOP-24"
+    ],
+    "entity": "f369dc4d-359b-4e7d-b7b3-a28c8e473a82",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "91cd4b72-f0ff-4ae9-b1af-b6ce7ce9fc52",
+    "pad_map": {
+        "0184b215-50a3-4fea-a50a-56f6bc4504a2": {
+            "gate": "6647c6a0-075e-4000-96df-0fc6e53e6e6a",
+            "pin": "c8e4be14-97bb-46e4-9267-675da0b1df49"
+        },
+        "0483991e-f9f9-4e56-aa14-8f5b1f014797": {
+            "gate": "6647c6a0-075e-4000-96df-0fc6e53e6e6a",
+            "pin": "d502fc53-1048-43f7-a6e0-154529e01f45"
+        },
+        "20be4db8-e34a-48ca-abce-b68cdfc59aaf": {
+            "gate": "6647c6a0-075e-4000-96df-0fc6e53e6e6a",
+            "pin": "da6845e7-e786-40bc-a24c-e4d69ff9b187"
+        },
+        "2199de67-59aa-4bd0-b371-1852c4fbf41c": {
+            "gate": "6647c6a0-075e-4000-96df-0fc6e53e6e6a",
+            "pin": "9bd6e166-713f-4a3f-9f0d-3dded2d79aea"
+        },
+        "3ae94f3e-900c-42b3-9510-55ec7739a1a5": {
+            "gate": "6647c6a0-075e-4000-96df-0fc6e53e6e6a",
+            "pin": "f27d02a2-988a-4a8f-90cb-50464fd7c4c2"
+        },
+        "4946f258-5165-48b7-bc67-593bf536b055": {
+            "gate": "6647c6a0-075e-4000-96df-0fc6e53e6e6a",
+            "pin": "9c372ff7-f548-481d-99bc-b3fb5954124d"
+        },
+        "54963480-88b2-480e-949e-759a13c87bec": {
+            "gate": "6647c6a0-075e-4000-96df-0fc6e53e6e6a",
+            "pin": "53fad443-3d03-4d45-8516-0aa2fb6c647a"
+        },
+        "55125a62-6631-4361-81f3-990941164b8e": {
+            "gate": "6647c6a0-075e-4000-96df-0fc6e53e6e6a",
+            "pin": "492202f5-56e9-4b20-a030-69f020bf235a"
+        },
+        "56dab3f7-5352-4eb3-8edd-d1bf00741e94": {
+            "gate": "6647c6a0-075e-4000-96df-0fc6e53e6e6a",
+            "pin": "e371d812-6fa1-4a2d-831e-7c38d103ac4f"
+        },
+        "7c6208c9-b8a7-4b52-85fd-eddaf629b268": {
+            "gate": "6647c6a0-075e-4000-96df-0fc6e53e6e6a",
+            "pin": "a0fc6bf0-d33a-43f2-b1db-b3f244c53c50"
+        },
+        "829b8cd5-8faa-4fef-89e2-9b9183c8b665": {
+            "gate": "6647c6a0-075e-4000-96df-0fc6e53e6e6a",
+            "pin": "bd54d645-e970-41ff-9925-ab1a6941dac7"
+        },
+        "831d1873-9d3a-40b4-8e3a-a6e882d80a20": {
+            "gate": "6647c6a0-075e-4000-96df-0fc6e53e6e6a",
+            "pin": "3cba03d7-ca50-4a7c-84e7-7a6ae3e1fff8"
+        },
+        "8d4dba9b-80ce-4c5b-9a24-0421ab934169": {
+            "gate": "6647c6a0-075e-4000-96df-0fc6e53e6e6a",
+            "pin": "f210576a-c5ce-49e9-960c-d625a1aaac95"
+        },
+        "ad951210-b91d-4905-b675-e8471b7d3f30": {
+            "gate": "6647c6a0-075e-4000-96df-0fc6e53e6e6a",
+            "pin": "9c48cc10-b442-44dd-93b4-5cf5a51bc137"
+        },
+        "aedc9a5e-1100-4e81-8778-6877b4623425": {
+            "gate": "6647c6a0-075e-4000-96df-0fc6e53e6e6a",
+            "pin": "12516cc9-cab2-4afd-84cc-b9ed2acfd717"
+        },
+        "b65b9b1d-c57d-4822-bb3a-1459f56a193c": {
+            "gate": "6647c6a0-075e-4000-96df-0fc6e53e6e6a",
+            "pin": "5a2290e7-7c9d-4853-9392-0049715124cc"
+        },
+        "becc8967-5b91-4cd7-abc2-d89266839ade": {
+            "gate": "6647c6a0-075e-4000-96df-0fc6e53e6e6a",
+            "pin": "06e47c57-3355-4e10-8b73-25a962243746"
+        },
+        "c0c2cf7d-65a5-43e8-a010-09ed1c7617aa": {
+            "gate": "6647c6a0-075e-4000-96df-0fc6e53e6e6a",
+            "pin": "4b196b4e-b5af-457d-9536-8e81f035328b"
+        },
+        "ca3bb227-c55e-40b0-a867-7590d20e2903": {
+            "gate": "6647c6a0-075e-4000-96df-0fc6e53e6e6a",
+            "pin": "ef6d7754-7fce-4776-b806-cd0e664903dd"
+        },
+        "e0a2729c-8080-44e4-b5e8-5e6c8355782d": {
+            "gate": "6647c6a0-075e-4000-96df-0fc6e53e6e6a",
+            "pin": "e70cbff5-7bcd-47e6-a853-33b5f7e7eced"
+        },
+        "e46b28e8-aaff-4166-b4b3-a90af9226114": {
+            "gate": "6647c6a0-075e-4000-96df-0fc6e53e6e6a",
+            "pin": "ccc521d9-b52b-4941-a5f8-4f089be68498"
+        },
+        "e740372b-a2eb-4a7c-80af-8f83c15a158e": {
+            "gate": "6647c6a0-075e-4000-96df-0fc6e53e6e6a",
+            "pin": "34b8b649-9da1-42ee-9ce1-74afc04e157a"
+        },
+        "fcbeb647-61c4-410c-901f-b865b29c0621": {
+            "gate": "6647c6a0-075e-4000-96df-0fc6e53e6e6a",
+            "pin": "ebf060f1-a48a-41c3-a9e1-de0a5d6fe528"
+        },
+        "ff6f7808-4bcc-4b55-bbef-6f581e9dca86": {
+            "gate": "6647c6a0-075e-4000-96df-0fc6e53e6e6a",
+            "pin": "503de006-be75-4f8e-8665-c991d7f6cfeb"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "5cb85ead-7045-43f2-b341-23222e9fcdfd",
+    "value": [
+        false,
+        ""
+    ]
+}
