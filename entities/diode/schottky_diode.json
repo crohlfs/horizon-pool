@@ -13,7 +13,7 @@
     "tags": [
         "diode",
         "discrete",
-        "schottky"
+        "generic"
     ],
     "type": "entity",
     "uuid": "cba5158c-706d-4f10-b48a-2de7e5a82a4c"

@@ -9,15 +9,16 @@
     ],
     "description": [
         false,
-        "25-Turn Precision Trimmer"
+        "25-Turn Precision Trimmer, Top Adjust"
     ],
     "entity": "4f8229a1-b250-4892-95dc-e9dc08469281",
+    "inherit_model": true,
     "inherit_tags": false,
     "manufacturer": [
         false,
         "Bourns"
     ],
-    "model": "00000000-0000-0000-0000-000000000000",
+    "model": "5aec0fbd-c042-488e-8526-07ed3286708c",
     "package": "03ee062f-676c-4019-9bbe-b3d6f95200ba",
     "pad_map": {
         "421db7ee-0da8-450a-825f-606d8769eaa1": {

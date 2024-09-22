@@ -1,22 +1,27 @@
 {
     "MPN": [
         false,
-        "TSM650P02CX RFG"
+        "base sot-23 P-channel MOSFET"
     ],
     "datasheet": [
         false,
-        "https://www.taiwansemi.com/assets/uploads/datasheet/TSM650P02CX_B1811.pdf"
+        ""
     ],
     "description": [
         false,
-        "20V P-Channel Power MOSFET"
+        "base P-channel MOSFET, SOT-23"
     ],
     "entity": "f1cafe55-ca30-4a2f-9c9e-ae06f9ea7859",
-    "inherit_model": false,
+    "flags": {
+        "base_part": "set",
+        "exclude_bom": "clear",
+        "exclude_pnp": "clear"
+    },
+    "inherit_model": true,
     "inherit_tags": false,
     "manufacturer": [
         false,
-        "Taiwan Semiconductor"
+        ""
     ],
     "model": "1ebac498-5423-42dc-90a6-7ad333585f6a",
     "package": "a37e4931-af72-4de0-b4e4-0357747ba44d",
@@ -38,12 +43,14 @@
     "tags": [
         "mosfet",
         "p-channel",
-        "smd"
+        "smd",
+        "transistor"
     ],
     "type": "part",
-    "uuid": "8686c6f7-2d94-46ec-bd9f-999c67ef3231",
+    "uuid": "03b1c077-db19-40a1-9a65-208053aff665",
     "value": [
         false,
         ""
-    ]
+    ],
+    "version": 1
 }
