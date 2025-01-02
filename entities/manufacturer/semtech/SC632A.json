@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "933f2fbd-2bb1-47a0-a5f2-b5b95473d419": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "b2e72da9-00d2-4b21-96b8-1f53e87e1c48"
+        }
+    },
+    "manufacturer": "Semtech",
+    "name": "SC632A",
+    "prefix": "U",
+    "tags": [
+        "dcdc",
+        "ic",
+        "regulator"
+    ],
+    "type": "entity",
+    "uuid": "6b1197d0-3f21-4135-bdda-0a376f2799d1"
+}

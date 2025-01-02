@@ -1,0 +1,49 @@
+{
+    "MPN": [
+        false,
+        "JST GH 4 pin connector"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "JST GH 4 pin connector"
+    ],
+    "entity": "64ffe153-20d8-4902-9321-1f18027cb84d",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "c2bc4157-dfab-4607-9524-f287d31c2583",
+    "package": "d1790023-ff5f-40b7-ad80-8de6f12ae87f",
+    "pad_map": {
+        "0586e14a-6227-4593-9120-2177e42492b7": {
+            "gate": "a96a662e-2077-467f-9853-a01865f76ad6",
+            "pin": "aab503ca-26da-43ff-a268-cf0db0698910"
+        },
+        "269803bc-6687-4e46-ba34-1df882fa4a89": {
+            "gate": "a96a662e-2077-467f-9853-a01865f76ad6",
+            "pin": "9c153b03-fb7b-4f99-a5ed-ca45d3ae512e"
+        },
+        "d353974b-0f03-4987-8591-468c7b05d4f1": {
+            "gate": "a96a662e-2077-467f-9853-a01865f76ad6",
+            "pin": "4b3e1234-17b7-41dc-af26-90574ec82303"
+        },
+        "d84628d5-cbb6-4d2d-ab56-275318903b14": {
+            "gate": "a96a662e-2077-467f-9853-a01865f76ad6",
+            "pin": "423d0d6c-4330-417f-a6f0-267741d4c770"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "16be924a-9ade-4f38-b954-cd69d13d7dc5",
+    "value": [
+        false,
+        ""
+    ]
+}

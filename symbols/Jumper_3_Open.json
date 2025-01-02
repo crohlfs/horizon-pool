@@ -1,0 +1,86 @@
+{
+    "arcs": {},
+    "can_expand": false,
+    "junctions": {
+        "7a6116c6-d9a0-4d0a-b85f-888d4beb504b": {
+            "position": [
+                0,
+                -1250000
+            ]
+        },
+        "95b05204-99c7-408b-9439-1b455b2ef4ce": {
+            "position": [
+                0,
+                -500000
+            ]
+        }
+    },
+    "lines": {
+        "7a95221d-64dc-4d57-bb80-c427f2dd695c": {
+            "from": "95b05204-99c7-408b-9439-1b455b2ef4ce",
+            "layer": 0,
+            "to": "7a6116c6-d9a0-4d0a-b85f-888d4beb504b",
+            "width": 0
+        }
+    },
+    "name": "Jumper_3_Open",
+    "pins": {
+        "19bfcef9-cb58-44d1-a9ce-8f088ff92bf6": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "down",
+            "pad_visible": true,
+            "position": [
+                0,
+                -3750000
+            ]
+        },
+        "70ac0079-4117-4c78-a770-942fded0c3af": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "left",
+            "pad_visible": true,
+            "position": [
+                -6250000,
+                0
+            ]
+        },
+        "c0292129-d50f-4ed5-8c03-2aa81fd65c78": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "right",
+            "pad_visible": true,
+            "position": [
+                6250000,
+                0
+            ]
+        }
+    },
+    "polygons": {},
+    "text_placements": {},
+    "texts": {},
+    "type": "symbol",
+    "unit": "b670aaaf-d07c-4350-9cc0-3ea80443fb5e",
+    "uuid": "a0724dd9-41b9-4bec-b31b-8281d58a068a"
+}

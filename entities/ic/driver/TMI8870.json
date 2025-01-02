@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "5e4c768b-61ae-4124-b707-bfa5f0e70617": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "9f37d808-2459-4d2d-a2c0-3c63048726ee"
+        }
+    },
+    "manufacturer": "TMI",
+    "name": "TMI8870",
+    "prefix": "U",
+    "tags": [
+        "driver",
+        "ic"
+    ],
+    "type": "entity",
+    "uuid": "662432c0-1c15-42f4-8142-a6e83e6f951a"
+}

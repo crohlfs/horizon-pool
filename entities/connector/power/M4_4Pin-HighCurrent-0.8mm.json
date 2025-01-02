@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "05215c6d-368e-4850-8aa2-4c136c7b49be": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "998a5aef-c54a-41c5-9e04-1a9424f27bfc"
+        }
+    },
+    "manufacturer": "",
+    "name": "M4_4Pin-HighCurrent-0.8mm",
+    "prefix": "U",
+    "tags": [
+        "connector"
+    ],
+    "type": "entity",
+    "uuid": "c4b315af-d262-4502-92b6-1fb136daeb57"
+}

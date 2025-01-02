@@ -1,0 +1,26 @@
+{
+    "manufacturer": "",
+    "name": "Jumper_3_Open",
+    "pins": {
+        "19bfcef9-cb58-44d1-a9ce-8f088ff92bf6": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "C",
+            "swap_group": 0
+        },
+        "70ac0079-4117-4c78-a770-942fded0c3af": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "A",
+            "swap_group": 0
+        },
+        "c0292129-d50f-4ed5-8c03-2aa81fd65c78": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "B",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "b670aaaf-d07c-4350-9cc0-3ea80443fb5e"
+}

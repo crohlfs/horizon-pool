@@ -1,0 +1,65 @@
+{
+    "MPN": [
+        false,
+        "JST GH 8 pin connector"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "JST GH 8 pin connector"
+    ],
+    "entity": "771a429f-983f-4758-b6d4-80e107ae9f8e",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "b2c55dd0-9a1a-4a9e-bac8-56cdc4477714",
+    "package": "a0c88648-4030-469d-9942-1f48caa84109",
+    "pad_map": {
+        "276b654f-e91f-4640-952a-70c0b32722d4": {
+            "gate": "58d54dd5-80b0-4554-9145-748a613a6042",
+            "pin": "e95ff9ae-5dce-4a5d-bc8a-158c688b9a0e"
+        },
+        "63842aa7-e589-48ae-bce0-81edc0948fa0": {
+            "gate": "58d54dd5-80b0-4554-9145-748a613a6042",
+            "pin": "65a73301-97c0-40b6-8138-4fcd12815dc0"
+        },
+        "8756519f-cc5b-4d6c-9a34-09ea19a137e1": {
+            "gate": "58d54dd5-80b0-4554-9145-748a613a6042",
+            "pin": "01ff6735-94f0-415a-9ce6-55b0515c1cd1"
+        },
+        "9e8393ad-b8ae-47c9-85ce-7ea222dcd6a3": {
+            "gate": "58d54dd5-80b0-4554-9145-748a613a6042",
+            "pin": "1a7a9b72-a0d1-4ee1-91f9-45265c2b41bb"
+        },
+        "9e9e46f7-5b67-410f-a72c-2fe64e63bc38": {
+            "gate": "58d54dd5-80b0-4554-9145-748a613a6042",
+            "pin": "3256695a-0b7e-4ed5-a6e6-4f9afb354f54"
+        },
+        "a53671e7-71a7-4a73-a374-e23a69ac0add": {
+            "gate": "58d54dd5-80b0-4554-9145-748a613a6042",
+            "pin": "e137d258-e055-4644-b9a5-fad874553ddf"
+        },
+        "c2ae00e5-c174-409a-b7b3-c3e807d8285f": {
+            "gate": "58d54dd5-80b0-4554-9145-748a613a6042",
+            "pin": "fa73ec1a-10bc-4280-aa96-1b222e566826"
+        },
+        "f8b73f61-bff5-4bcd-897f-fc5aeb744a66": {
+            "gate": "58d54dd5-80b0-4554-9145-748a613a6042",
+            "pin": "394fe994-72b0-4e01-9a0b-c463902d55e8"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "01561cde-23cb-4bda-9c6f-b0d4cf998ae7",
+    "value": [
+        false,
+        ""
+    ]
+}

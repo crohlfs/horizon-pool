@@ -1,0 +1,49 @@
+{
+    "MPN": [
+        false,
+        "M4_4Pin-HighCurrent-0.8mm"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "M4 power input"
+    ],
+    "entity": "c4b315af-d262-4502-92b6-1fb136daeb57",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "19a92b5d-1d96-4321-a2e9-68277e5c7c3d",
+    "pad_map": {
+        "0f77570c-fe67-4c2a-9f55-22cbccb094df": {
+            "gate": "05215c6d-368e-4850-8aa2-4c136c7b49be",
+            "pin": "76e939c6-3626-472c-a4f4-bf73bf5af7f9"
+        },
+        "8bd2ea4f-af7a-438a-96b7-d31e4b3237a0": {
+            "gate": "05215c6d-368e-4850-8aa2-4c136c7b49be",
+            "pin": "76e939c6-3626-472c-a4f4-bf73bf5af7f9"
+        },
+        "b7092d64-2b5e-499b-afe6-ab8623836cb7": {
+            "gate": "05215c6d-368e-4850-8aa2-4c136c7b49be",
+            "pin": "76e939c6-3626-472c-a4f4-bf73bf5af7f9"
+        },
+        "c39d135f-d2b0-4ab0-95ab-e85e2bdc4f8e": {
+            "gate": "05215c6d-368e-4850-8aa2-4c136c7b49be",
+            "pin": "76e939c6-3626-472c-a4f4-bf73bf5af7f9"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "2f7fdff4-a049-4a3b-bf7b-e780d31a626a",
+    "value": [
+        false,
+        ""
+    ]
+}

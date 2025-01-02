@@ -1,0 +1,69 @@
+{
+    "MPN": [
+        false,
+        "TMI8870"
+    ],
+    "datasheet": [
+        false,
+        "https://datasheet.lcsc.com/lcsc/2108271830_TMI-TMI8870_C2889167.pdf"
+    ],
+    "description": [
+        false,
+        "3.6A Brushed DC motor driver"
+    ],
+    "entity": "662432c0-1c15-42f4-8142-a6e83e6f951a",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "TMI"
+    ],
+    "model": "b99785a3-c0da-4658-969d-6287cec3be05",
+    "package": "c61635b5-d4eb-45b0-86f3-e531da41b335",
+    "pad_map": {
+        "17341892-a120-44e2-97ea-6e4f8e3d7da5": {
+            "gate": "5e4c768b-61ae-4124-b707-bfa5f0e70617",
+            "pin": "868d0849-29fd-4e58-8e8c-6c5ac36c1f2d"
+        },
+        "29f18ab8-6cea-44fc-9bf5-4fb888f5245b": {
+            "gate": "5e4c768b-61ae-4124-b707-bfa5f0e70617",
+            "pin": "88be4e2f-e628-4ca7-a6f5-7fdd7adde56c"
+        },
+        "3d725e25-0d60-46cb-a21f-82462d3ce156": {
+            "gate": "5e4c768b-61ae-4124-b707-bfa5f0e70617",
+            "pin": "08f4b60a-5b31-4682-84a9-733edd8c424a"
+        },
+        "51d7c05f-acae-46d5-9c26-2ea9d17bf7a8": {
+            "gate": "5e4c768b-61ae-4124-b707-bfa5f0e70617",
+            "pin": "a2072019-4777-49e4-bd08-509fbb310066"
+        },
+        "68b17b6f-ab52-4c2b-9389-c36d3c06eeef": {
+            "gate": "5e4c768b-61ae-4124-b707-bfa5f0e70617",
+            "pin": "f5b5eb99-f0e1-4365-aeba-49e4c61803fa"
+        },
+        "6f82c7c4-9578-4cb0-a92c-8b09534d5dc9": {
+            "gate": "5e4c768b-61ae-4124-b707-bfa5f0e70617",
+            "pin": "e9f41e58-a591-480e-83ba-07ebff399f7e"
+        },
+        "82d773fb-4473-4bd9-a879-a6ca2756055c": {
+            "gate": "5e4c768b-61ae-4124-b707-bfa5f0e70617",
+            "pin": "823226f2-b1fd-4092-b8bd-82bc2b791326"
+        },
+        "b9ad4acf-f78d-438d-8b7b-e83ee0f9cc19": {
+            "gate": "5e4c768b-61ae-4124-b707-bfa5f0e70617",
+            "pin": "c0d68b91-6407-411b-9972-518ea82df3e1"
+        },
+        "f83e0948-fbb6-47fd-b123-05e07b8ba692": {
+            "gate": "5e4c768b-61ae-4124-b707-bfa5f0e70617",
+            "pin": "a2072019-4777-49e4-bd08-509fbb310066"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "59588add-57cc-4d7a-a729-922f3554f0dc",
+    "value": [
+        false,
+        ""
+    ]
+}

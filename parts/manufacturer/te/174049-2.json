@@ -1,0 +1,65 @@
+{
+    "MPN": [
+        false,
+        "174049-2"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "040 MULTILOCK I/O CONN 8P ASSY"
+    ],
+    "entity": "771a429f-983f-4758-b6d4-80e107ae9f8e",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "TE Connectivity"
+    ],
+    "model": "1053e8d4-87dc-4ca0-928a-49b00cfcd89d",
+    "package": "89e6c039-b8f3-46ef-91ef-d2696ee36be2",
+    "pad_map": {
+        "54ce94a7-a352-4a03-b5a7-353552ac646c": {
+            "gate": "58d54dd5-80b0-4554-9145-748a613a6042",
+            "pin": "3256695a-0b7e-4ed5-a6e6-4f9afb354f54"
+        },
+        "630283a3-f4ab-40dc-b241-cc431600590d": {
+            "gate": "58d54dd5-80b0-4554-9145-748a613a6042",
+            "pin": "fa73ec1a-10bc-4280-aa96-1b222e566826"
+        },
+        "8d29dcf2-0edc-45ad-8de2-da233d7d48c1": {
+            "gate": "58d54dd5-80b0-4554-9145-748a613a6042",
+            "pin": "1a7a9b72-a0d1-4ee1-91f9-45265c2b41bb"
+        },
+        "b3f6cea1-db1c-44fe-be14-4c37d13e8636": {
+            "gate": "58d54dd5-80b0-4554-9145-748a613a6042",
+            "pin": "394fe994-72b0-4e01-9a0b-c463902d55e8"
+        },
+        "b8a5ff2d-d695-4f57-accd-be0a755bc80f": {
+            "gate": "58d54dd5-80b0-4554-9145-748a613a6042",
+            "pin": "65a73301-97c0-40b6-8138-4fcd12815dc0"
+        },
+        "e28efee8-8004-490a-9781-1d77475f6683": {
+            "gate": "58d54dd5-80b0-4554-9145-748a613a6042",
+            "pin": "e95ff9ae-5dce-4a5d-bc8a-158c688b9a0e"
+        },
+        "e361a9ff-db30-4420-aa82-7814c0fa4dea": {
+            "gate": "58d54dd5-80b0-4554-9145-748a613a6042",
+            "pin": "e137d258-e055-4644-b9a5-fad874553ddf"
+        },
+        "fb59abce-a4f1-43ca-a8a5-08127687733d": {
+            "gate": "58d54dd5-80b0-4554-9145-748a613a6042",
+            "pin": "01ff6735-94f0-415a-9ce6-55b0515c1cd1"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "8ed69973-cb88-4fe2-8a31-d18689e8fe99",
+    "value": [
+        false,
+        ""
+    ]
+}

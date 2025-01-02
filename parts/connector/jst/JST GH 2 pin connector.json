@@ -1,0 +1,41 @@
+{
+    "MPN": [
+        false,
+        "JST GH 2 pin connector"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "JST GH 2 pin connector"
+    ],
+    "entity": "29f544a1-a789-4fe6-a1ef-29da5ba3d371",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "02e78c60-2b66-4580-928b-10ab5b9c3aa7",
+    "package": "aab52f7a-c26c-4c7c-8d61-b3e5b469c161",
+    "pad_map": {
+        "34c365f5-fb1a-4b5b-bbc1-e41a3cd6cbf9": {
+            "gate": "eb7f68b1-6fba-4a35-a470-2cecb23fe087",
+            "pin": "b3cef4f5-fe6c-45b5-b063-1618f997168f"
+        },
+        "ab2ba179-366c-4e32-a4d3-d8a7f03e27eb": {
+            "gate": "eb7f68b1-6fba-4a35-a470-2cecb23fe087",
+            "pin": "588536f1-9e96-4500-bcbb-4ba48082b643"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "55945c2e-c623-4cbc-9ef1-1008f51b4dee",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "arcs": {},
+    "can_expand": false,
+    "junctions": {},
+    "lines": {},
+    "name": "M4_4Pin-HighCurrent-0.8mm",
+    "pins": {
+        "76e939c6-3626-472c-a4f4-bf73bf5af7f9": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "up",
+            "pad_visible": true,
+            "position": [
+                0,
+                5000000
+            ]
+        }
+    },
+    "polygons": {},
+    "text_placements": {},
+    "texts": {},
+    "type": "symbol",
+    "unit": "998a5aef-c54a-41c5-9e04-1a9424f27bfc",
+    "uuid": "3e41b83c-87ad-471b-a99c-03569df1bbff"
+}

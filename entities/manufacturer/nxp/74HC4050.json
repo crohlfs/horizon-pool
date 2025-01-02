@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "82fb4d49-f8ff-4a7c-a596-d8bf66309b53": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "e3ac42e2-832d-48b9-83bd-fb52ac77fe78"
+        }
+    },
+    "manufacturer": "NXP",
+    "name": "74HC4050",
+    "prefix": "U",
+    "tags": [
+        "ic"
+    ],
+    "type": "entity",
+    "uuid": "d5001372-a50a-4968-a72a-c2bcf161aea3"
+}

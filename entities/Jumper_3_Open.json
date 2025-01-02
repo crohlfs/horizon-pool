@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "16e99f19-ee7b-46ad-bab2-22ed536d929b": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "b670aaaf-d07c-4350-9cc0-3ea80443fb5e"
+        }
+    },
+    "manufacturer": "",
+    "name": "Jumper_3_Open",
+    "prefix": "JP",
+    "tags": [],
+    "type": "entity",
+    "uuid": "17fd1080-e448-4c71-b55f-d58cf354b271"
+}

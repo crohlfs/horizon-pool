@@ -1,0 +1,186 @@
+{
+    "arcs": {},
+    "default_model": "00000000-0000-0000-0000-000000000000",
+    "dimensions": {},
+    "grid_settings": {
+        "current": {
+            "mode": "square",
+            "name": "",
+            "origin": [
+                0,
+                0
+            ],
+            "spacing_rect": [
+                1000000,
+                1000000
+            ],
+            "spacing_square": 1000000
+        },
+        "grids": {}
+    },
+    "junctions": {
+        "5554a550-8adc-41ce-9ef7-f2cf4e68bb30": {
+            "position": [
+                2049999,
+                -1000000
+            ]
+        },
+        "88fc09ea-32c5-4339-8828-a055bffd0fbe": {
+            "position": [
+                2049999,
+                1000000
+            ]
+        },
+        "8ad63cde-fbc2-4437-8b32-4641f31b1fce": {
+            "position": [
+                -2049999,
+                1000000
+            ]
+        },
+        "961587fd-9413-4ec4-8382-ff570f02339d": {
+            "position": [
+                -2049999,
+                -1000000
+            ]
+        },
+        "b286b437-afea-4107-9de3-f62e82a4bc9c": {
+            "position": [
+                -1300000,
+                -1200000
+            ]
+        },
+        "b5227784-38d3-439c-91f2-b0e8252e735c": {
+            "position": [
+                -1600000,
+                -1500000
+            ]
+        },
+        "d70bfc64-f0d2-4f1b-b7b9-1619373fea8c": {
+            "position": [
+                -1000000,
+                -1500000
+            ]
+        }
+    },
+    "keepouts": {},
+    "lines": {
+        "237da611-eec9-419b-b7ca-0178179e9293": {
+            "from": "961587fd-9413-4ec4-8382-ff570f02339d",
+            "layer": 20,
+            "to": "8ad63cde-fbc2-4437-8b32-4641f31b1fce",
+            "width": 120000
+        },
+        "3362c48b-9ff6-4070-9312-2ffcbe976c76": {
+            "from": "b5227784-38d3-439c-91f2-b0e8252e735c",
+            "layer": 20,
+            "to": "d70bfc64-f0d2-4f1b-b7b9-1619373fea8c",
+            "width": 120000
+        },
+        "39e20eb9-882f-44e3-9ab0-a185a6963e0b": {
+            "from": "8ad63cde-fbc2-4437-8b32-4641f31b1fce",
+            "layer": 20,
+            "to": "88fc09ea-32c5-4339-8828-a055bffd0fbe",
+            "width": 120000
+        },
+        "6dc69eb2-b0f0-49bb-9d79-e5dd6fc0bb4c": {
+            "from": "b286b437-afea-4107-9de3-f62e82a4bc9c",
+            "layer": 20,
+            "to": "d70bfc64-f0d2-4f1b-b7b9-1619373fea8c",
+            "width": 120000
+        },
+        "742a5b59-69d7-4d6a-b584-9540262f59a1": {
+            "from": "88fc09ea-32c5-4339-8828-a055bffd0fbe",
+            "layer": 20,
+            "to": "5554a550-8adc-41ce-9ef7-f2cf4e68bb30",
+            "width": 120000
+        },
+        "aa79e0fe-85f8-4a6b-b596-ea4198a6917e": {
+            "from": "b286b437-afea-4107-9de3-f62e82a4bc9c",
+            "layer": 20,
+            "to": "b5227784-38d3-439c-91f2-b0e8252e735c",
+            "width": 120000
+        },
+        "ace9d1bf-f63d-4c1b-bb13-046b18edb1f2": {
+            "from": "5554a550-8adc-41ce-9ef7-f2cf4e68bb30",
+            "layer": 20,
+            "to": "961587fd-9413-4ec4-8382-ff570f02339d",
+            "width": 120000
+        }
+    },
+    "manufacturer": "",
+    "models": {},
+    "name": "SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm",
+    "pads": {
+        "6d144d97-c6f5-4d93-99ab-e37bae04bc4f": {
+            "name": "2",
+            "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
+            "parameter_set": {
+                "pad_height": 1500000,
+                "pad_width": 1000000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        },
+        "9648167d-e576-4503-86a0-354d7f42a63b": {
+            "name": "1",
+            "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
+            "parameter_set": {
+                "pad_height": 1500000,
+                "pad_width": 1000000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -1300000,
+                    0
+                ]
+            }
+        },
+        "fc431f3c-ed8d-4746-a88d-51047aeb52d2": {
+            "name": "3",
+            "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
+            "parameter_set": {
+                "pad_height": 1500000,
+                "pad_width": 1000000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    1300000,
+                    0
+                ]
+            }
+        }
+    },
+    "parameter_program": "",
+    "parameter_set": {},
+    "polygons": {},
+    "rules": {
+        "clearance_package": {
+            "clearance_silkscreen_cu": 200000,
+            "clearance_silkscreen_pkg": 200000,
+            "enabled": true,
+            "order": -1
+        },
+        "package_checks": {
+            "enabled": true,
+            "order": -1
+        }
+    },
+    "tags": [
+        "jumper",
+        "open",
+        "solder"
+    ],
+    "texts": {},
+    "type": "package",
+    "uuid": "367f319e-61a4-4f89-9a31-94f4b1c758d3"
+}

@@ -1,0 +1,56 @@
+{
+    "manufacturer": "TMI",
+    "name": "TMI8870",
+    "pins": {
+        "08f4b60a-5b31-4682-84a9-733edd8c424a": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "ISEN",
+            "swap_group": 0
+        },
+        "823226f2-b1fd-4092-b8bd-82bc2b791326": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "OUT1",
+            "swap_group": 0
+        },
+        "868d0849-29fd-4e58-8e8c-6c5ac36c1f2d": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "IN2",
+            "swap_group": 0
+        },
+        "88be4e2f-e628-4ca7-a6f5-7fdd7adde56c": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VREF",
+            "swap_group": 0
+        },
+        "a2072019-4777-49e4-bd08-509fbb310066": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "c0d68b91-6407-411b-9972-518ea82df3e1": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "OUT2",
+            "swap_group": 0
+        },
+        "e9f41e58-a591-480e-83ba-07ebff399f7e": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VM",
+            "swap_group": 0
+        },
+        "f5b5eb99-f0e1-4365-aeba-49e4c61803fa": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "IN1",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "9f37d808-2459-4d2d-a2c0-3c63048726ee"
+}

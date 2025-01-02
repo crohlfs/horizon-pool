@@ -1,0 +1,113 @@
+{
+    "MPN": [
+        false,
+        "20p-175965-2"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "20 pin connector"
+    ],
+    "entity": "8b3bdf54-336c-485e-94d9-021ecf72a0d7",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "TE Connectivity"
+    ],
+    "model": "9fa00c5a-ad6d-43d8-9e5f-25c183736905",
+    "package": "a62877bb-6dda-4aa8-b52b-9595d252261d",
+    "pad_map": {
+        "02d852fb-bcf4-4bd5-8b46-1acbd4724e8b": {
+            "gate": "1c0964c8-5ee9-4ab8-be72-da4e04fcdc2c",
+            "pin": "e9917b33-b9fa-48d2-8b92-c0f42ec473de"
+        },
+        "05fc0807-cf7c-45ca-a1d1-2d4d8e70b943": {
+            "gate": "1c0964c8-5ee9-4ab8-be72-da4e04fcdc2c",
+            "pin": "fffd9dcc-5792-40e5-9ef9-dc9055b604a8"
+        },
+        "2160874d-73ad-4f3c-a4c2-c2390ccb8dbb": {
+            "gate": "1c0964c8-5ee9-4ab8-be72-da4e04fcdc2c",
+            "pin": "6b43d393-9784-40a1-ad5b-5776f38ce000"
+        },
+        "2b6d5eb9-007a-4795-94b3-4d9e96417c59": {
+            "gate": "1c0964c8-5ee9-4ab8-be72-da4e04fcdc2c",
+            "pin": "19c1ed7b-85b2-4a5d-90ea-71efe5c3db98"
+        },
+        "31d0d56a-3946-457b-8fca-8279cbb6bb73": {
+            "gate": "1c0964c8-5ee9-4ab8-be72-da4e04fcdc2c",
+            "pin": "0a71efc9-02ac-4582-b3e4-b8741ead418d"
+        },
+        "4d573b70-f49f-46df-9e68-22596e0424d0": {
+            "gate": "1c0964c8-5ee9-4ab8-be72-da4e04fcdc2c",
+            "pin": "270551c9-a113-4c97-9406-27ff5dd5f937"
+        },
+        "5b46bbe6-fa68-488d-a2cc-6ff54a752400": {
+            "gate": "1c0964c8-5ee9-4ab8-be72-da4e04fcdc2c",
+            "pin": "8f783ee5-e3ce-4ecb-8066-0262565b02b6"
+        },
+        "5b8f2098-1a33-4c7a-ada5-d344d30d8901": {
+            "gate": "1c0964c8-5ee9-4ab8-be72-da4e04fcdc2c",
+            "pin": "a70e83e7-74cb-400f-97a3-f8adc93f4de2"
+        },
+        "605255b5-4104-4db3-b92d-a60c9e352e7f": {
+            "gate": "1c0964c8-5ee9-4ab8-be72-da4e04fcdc2c",
+            "pin": "240f32fa-8413-49f6-af6a-4c57224aa699"
+        },
+        "6b6ce3a0-39ea-4fd1-be74-eb8b7f505548": {
+            "gate": "1c0964c8-5ee9-4ab8-be72-da4e04fcdc2c",
+            "pin": "b221b9fb-88ff-463e-9fd0-e3e226cbae44"
+        },
+        "7aa5ffbc-d7dc-4250-9fe8-70b70d993359": {
+            "gate": "1c0964c8-5ee9-4ab8-be72-da4e04fcdc2c",
+            "pin": "489bba81-d6e2-4e4a-b268-744d6d2b087f"
+        },
+        "97b27689-e436-4016-86d9-94c23102a7f6": {
+            "gate": "1c0964c8-5ee9-4ab8-be72-da4e04fcdc2c",
+            "pin": "143a8159-6206-4c26-a73d-d595caf5cf10"
+        },
+        "a7c6e080-b064-40ce-86d3-d4fa72c2bb17": {
+            "gate": "1c0964c8-5ee9-4ab8-be72-da4e04fcdc2c",
+            "pin": "53a21b03-f68c-45d4-b326-a94d9ac86088"
+        },
+        "c32e14b5-17c7-4f60-b4e1-7c416cb994bd": {
+            "gate": "1c0964c8-5ee9-4ab8-be72-da4e04fcdc2c",
+            "pin": "6c797f0c-674e-4f4f-bc90-8b362cde6b2e"
+        },
+        "ddcff9fd-8d49-4709-816d-19ae2cc1e16e": {
+            "gate": "1c0964c8-5ee9-4ab8-be72-da4e04fcdc2c",
+            "pin": "b841c304-c259-44d0-a64f-29aafed4d0b6"
+        },
+        "e61837fb-ff7b-496f-86e8-69a7a0789a8f": {
+            "gate": "1c0964c8-5ee9-4ab8-be72-da4e04fcdc2c",
+            "pin": "828c7fd5-900a-401b-9eae-817ca714a5b0"
+        },
+        "e82af120-942f-43ec-a8da-53a120c09419": {
+            "gate": "1c0964c8-5ee9-4ab8-be72-da4e04fcdc2c",
+            "pin": "981ab2a5-9182-430b-8ce0-c13faf87b7d1"
+        },
+        "e8aabea7-b328-4c67-84ff-802413fb8c0c": {
+            "gate": "1c0964c8-5ee9-4ab8-be72-da4e04fcdc2c",
+            "pin": "7fe1398d-63c6-4b14-b735-25814184837f"
+        },
+        "f1dbdf7c-3ba6-4e5f-8779-80103103a212": {
+            "gate": "1c0964c8-5ee9-4ab8-be72-da4e04fcdc2c",
+            "pin": "9527e2f6-6aca-43d0-be91-b3d422c887db"
+        },
+        "f4a27a17-8948-4838-aba1-2161ce69df93": {
+            "gate": "1c0964c8-5ee9-4ab8-be72-da4e04fcdc2c",
+            "pin": "08ccff74-544d-43de-af54-6e88b2438323"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "5bde220f-783f-432e-8549-430070228c52",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "564aa4b9-2e1f-48ce-8129-a836b812a7e6": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "bc1c660f-6cfe-4e66-a35e-a6edbdf8f67c"
+        }
+    },
+    "manufacturer": "",
+    "name": "Generic Pin header 1×16, 1.27mm pitch, vertical",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "6785c2fa-0eb0-4f03-b25a-3f821a218458"
+}

@@ -1,0 +1,56 @@
+{
+    "manufacturer": "Semtech",
+    "name": "SC632A",
+    "pins": {
+        "04f5a898-3895-4787-9160-1b08fad673ab": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "OUT",
+            "swap_group": 0
+        },
+        "08eec825-93dd-47c7-a30f-bdbb7c7e8a96": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "C2-",
+            "swap_group": 0
+        },
+        "1e420362-4288-467f-a0b7-ca6304a4873d": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "C2+",
+            "swap_group": 0
+        },
+        "b0f35efb-b2e2-408e-941f-e11807277042": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "C1+",
+            "swap_group": 0
+        },
+        "b60f5251-7b84-4590-81fb-72b15965fefd": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "IN",
+            "swap_group": 0
+        },
+        "c55fae0c-76a4-4abe-9030-060216243c8f": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "C1-",
+            "swap_group": 0
+        },
+        "c9d1092e-733a-4054-91a7-0388832c00e5": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "ca3afac6-2c97-44b8-bc99-2eea560007ad": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "EN",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "b2e72da9-00d2-4b21-96b8-1f53e87e1c48"
+}

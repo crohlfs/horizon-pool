@@ -1,0 +1,14 @@
+{
+    "arcs": {},
+    "can_expand": false,
+    "junctions": {},
+    "lines": {},
+    "name": "Generic Pin header 1×16, 1.27mm pitch, vertical",
+    "pins": {},
+    "polygons": {},
+    "text_placements": {},
+    "texts": {},
+    "type": "symbol",
+    "unit": "bc1c660f-6cfe-4e66-a35e-a6edbdf8f67c",
+    "uuid": "f254658f-2767-4a45-9a51-f30b196b5dc0"
+}

@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "add7ef2e-0330-4aeb-9223-2372a8bc69e2": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "9ca25437-9882-40b8-b966-88de9dcd89de"
+        }
+    },
+    "manufacturer": "Bardeen Micro.",
+    "name": "BDR6622T",
+    "prefix": "U",
+    "tags": [
+        "driver",
+        "dual",
+        "ic"
+    ],
+    "type": "entity",
+    "uuid": "a7c66bf2-2724-4f70-ad26-0f33c7ba6769"
+}

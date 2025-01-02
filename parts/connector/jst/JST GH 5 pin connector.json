@@ -1,0 +1,53 @@
+{
+    "MPN": [
+        false,
+        "JST GH 5 pin connector"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "JST GH 5 pin connector"
+    ],
+    "entity": "7df8761c-9867-4b43-b018-5f5c3bfd0e6a",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "97a573aa-0598-4a6e-8b25-e13ecb232f44",
+    "package": "45ffbdc3-1247-4d45-a05c-d54ee41bbd51",
+    "pad_map": {
+        "06054e72-8768-4479-940f-45855248ae27": {
+            "gate": "fdf2cef9-c614-4909-a559-883ba8cf8cbb",
+            "pin": "9fb34e7c-856b-4413-8d12-28af8cc54529"
+        },
+        "2ff180a0-ecff-46be-8e4a-3046b25ca57a": {
+            "gate": "fdf2cef9-c614-4909-a559-883ba8cf8cbb",
+            "pin": "c28d4a18-905d-497d-8f4b-18b376769929"
+        },
+        "4fdfb438-d57c-4522-a049-e098e94764e0": {
+            "gate": "fdf2cef9-c614-4909-a559-883ba8cf8cbb",
+            "pin": "b44c4791-5509-4fda-b027-ac181543a68a"
+        },
+        "7175f684-d27d-4596-844d-176203047e3b": {
+            "gate": "fdf2cef9-c614-4909-a559-883ba8cf8cbb",
+            "pin": "79dc1645-1dd2-4d10-a12a-ac4426be1ee7"
+        },
+        "e0e6be19-fb51-4ec0-bf2c-db0f4c587d03": {
+            "gate": "fdf2cef9-c614-4909-a559-883ba8cf8cbb",
+            "pin": "c55a5926-9adb-4da9-914f-ecbe44911478"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "9949feb1-9128-4688-8fc0-f04f978690fa",
+    "value": [
+        false,
+        ""
+    ]
+}

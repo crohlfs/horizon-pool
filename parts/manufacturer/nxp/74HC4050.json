@@ -1,0 +1,91 @@
+{
+    "MPN": [
+        false,
+        "74HC4050"
+    ],
+    "datasheet": [
+        false,
+        "https://www.nxp.com/docs/en/data-sheet/74HC4050.pdf"
+    ],
+    "description": [
+        false,
+        "HIGH-to-LOW level shifter"
+    ],
+    "entity": "d5001372-a50a-4968-a72a-c2bcf161aea3",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "NXP"
+    ],
+    "model": "2709091d-cc9b-4e3d-944a-3c8fe268af85",
+    "package": "040d8394-4b61-473c-8ef2-b372a4c5c238",
+    "pad_map": {
+        "05cc3809-4e51-4743-b62f-f4715fa84c04": {
+            "gate": "82fb4d49-f8ff-4a7c-a596-d8bf66309b53",
+            "pin": "4100e2b1-873f-4632-9163-908f354adc1a"
+        },
+        "075260d0-5ced-4ac4-85da-5c209af04f62": {
+            "gate": "82fb4d49-f8ff-4a7c-a596-d8bf66309b53",
+            "pin": "85f34067-d2ad-48de-8d53-11599b8dc5b5"
+        },
+        "0a57a0cf-cd62-4293-836e-93cd007c8eec": {
+            "gate": "82fb4d49-f8ff-4a7c-a596-d8bf66309b53",
+            "pin": "cc7aca64-a807-4f64-befa-19c8b235d5bc"
+        },
+        "17b948ee-ebd3-4b4d-b160-5b28aa3cad3b": {
+            "gate": "82fb4d49-f8ff-4a7c-a596-d8bf66309b53",
+            "pin": "1fb22448-80f5-4fd2-bbce-58f5c2cce14d"
+        },
+        "2d56615a-ecd7-4851-a9db-17ca97087eb0": {
+            "gate": "82fb4d49-f8ff-4a7c-a596-d8bf66309b53",
+            "pin": "4b59c092-09c0-4da7-876a-77aa166e2931"
+        },
+        "6caa067e-6072-4463-b89e-cbfc807614a7": {
+            "gate": "82fb4d49-f8ff-4a7c-a596-d8bf66309b53",
+            "pin": "3914889f-4a63-48c5-9797-0b3c1d46e667"
+        },
+        "7c6f2cc9-5c2b-4bcc-a8ac-cd890a0a4479": {
+            "gate": "82fb4d49-f8ff-4a7c-a596-d8bf66309b53",
+            "pin": "613f5ae3-64fe-4f83-91fc-e0afbb38eb0e"
+        },
+        "8f605151-7246-41d8-9dcc-08aaf872a95d": {
+            "gate": "82fb4d49-f8ff-4a7c-a596-d8bf66309b53",
+            "pin": "a5f7edc5-1e4e-48d0-8e90-f165dd21d2ee"
+        },
+        "afb96bb6-13d3-43c3-84fe-55922ce7a5cc": {
+            "gate": "82fb4d49-f8ff-4a7c-a596-d8bf66309b53",
+            "pin": "26536325-86b8-4ae6-8d4b-ee7bbf7a930e"
+        },
+        "b7186f8f-a11a-4c0b-8302-072b4ca570a0": {
+            "gate": "82fb4d49-f8ff-4a7c-a596-d8bf66309b53",
+            "pin": "b1ad682b-eeb4-467b-92b3-fb16b7929354"
+        },
+        "c90865c4-7f8e-4970-b112-0d800083b8d9": {
+            "gate": "82fb4d49-f8ff-4a7c-a596-d8bf66309b53",
+            "pin": "3b08d951-c830-445b-997a-6ea341577ba4"
+        },
+        "cc3f785a-76e6-417a-9bfd-874ced8487da": {
+            "gate": "82fb4d49-f8ff-4a7c-a596-d8bf66309b53",
+            "pin": "3daa6404-fe0b-4615-a375-314065752dcb"
+        },
+        "cd168e54-65dd-4d3b-a570-b23d7e005ce2": {
+            "gate": "82fb4d49-f8ff-4a7c-a596-d8bf66309b53",
+            "pin": "ed51a80e-4383-4bc6-8a58-b70b1477a573"
+        },
+        "eb479263-10a6-440f-b7cf-7b11943472df": {
+            "gate": "82fb4d49-f8ff-4a7c-a596-d8bf66309b53",
+            "pin": "33ad7fee-9ba6-4578-baa0-8cd171de8bb9"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic"
+    ],
+    "type": "part",
+    "uuid": "3ca8ef1c-8543-4bda-8aed-da24fed22674",
+    "value": [
+        false,
+        ""
+    ]
+}

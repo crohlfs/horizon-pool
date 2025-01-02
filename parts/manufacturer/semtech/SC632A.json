@@ -1,0 +1,69 @@
+{
+    "MPN": [
+        false,
+        "SC632A"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "5v voltage regulator"
+    ],
+    "entity": "6b1197d0-3f21-4135-bdda-0a376f2799d1",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Semtech"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "322519ee-7b1c-449e-a7d6-bc2053b044db",
+    "pad_map": {
+        "0f937479-7f11-4b39-b9d7-8ffa47e1c6ca": {
+            "gate": "933f2fbd-2bb1-47a0-a5f2-b5b95473d419",
+            "pin": "04f5a898-3895-4787-9160-1b08fad673ab"
+        },
+        "143434a8-e0a3-450c-a7d9-1748a262ce62": {
+            "gate": "933f2fbd-2bb1-47a0-a5f2-b5b95473d419",
+            "pin": "ca3afac6-2c97-44b8-bc99-2eea560007ad"
+        },
+        "54f1677f-415f-47eb-b19f-8ff24d473ed9": {
+            "gate": "933f2fbd-2bb1-47a0-a5f2-b5b95473d419",
+            "pin": "c9d1092e-733a-4054-91a7-0388832c00e5"
+        },
+        "661df228-54fe-44c6-a0e4-ea463157882f": {
+            "gate": "933f2fbd-2bb1-47a0-a5f2-b5b95473d419",
+            "pin": "08eec825-93dd-47c7-a30f-bdbb7c7e8a96"
+        },
+        "6ff7f991-5c35-4348-b54a-a4a88a01737c": {
+            "gate": "933f2fbd-2bb1-47a0-a5f2-b5b95473d419",
+            "pin": "1e420362-4288-467f-a0b7-ca6304a4873d"
+        },
+        "738279c3-0739-4f59-93a3-d5f312331139": {
+            "gate": "933f2fbd-2bb1-47a0-a5f2-b5b95473d419",
+            "pin": "b60f5251-7b84-4590-81fb-72b15965fefd"
+        },
+        "96582a12-ea9c-4a87-a56e-54ee6e50772e": {
+            "gate": "933f2fbd-2bb1-47a0-a5f2-b5b95473d419",
+            "pin": "c9d1092e-733a-4054-91a7-0388832c00e5"
+        },
+        "a43d8de6-65f5-47ac-b5e3-6cf6a2840c38": {
+            "gate": "933f2fbd-2bb1-47a0-a5f2-b5b95473d419",
+            "pin": "b0f35efb-b2e2-408e-941f-e11807277042"
+        },
+        "bec5aec4-bc44-4d9f-a71b-a4cafab9f52e": {
+            "gate": "933f2fbd-2bb1-47a0-a5f2-b5b95473d419",
+            "pin": "c55fae0c-76a4-4abe-9030-060216243c8f"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "40f87a8e-b8eb-49f3-921a-59558c2fb838",
+    "value": [
+        false,
+        ""
+    ]
+}

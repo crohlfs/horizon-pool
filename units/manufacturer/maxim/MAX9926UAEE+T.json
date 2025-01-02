@@ -1,0 +1,104 @@
+{
+    "manufacturer": "",
+    "name": "MAX9926UAEE+T",
+    "pins": {
+        "3a4ad281-bcbb-4093-ab84-c8bc6d624d0a": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "BIAS2",
+            "swap_group": 0
+        },
+        "4864cb19-6c17-4cd2-8555-392eb4014032": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "INT_THRS1",
+            "swap_group": 0
+        },
+        "48e99268-7289-430f-9416-6d6681440fad": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "6003ef46-f701-4e5b-87a9-e543e33619ea": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "COUT1",
+            "swap_group": 0
+        },
+        "8d99009b-fce1-4029-ba82-97cbe4922392": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "IN2-",
+            "swap_group": 0
+        },
+        "980f1889-17b5-4adc-81c5-777bee283919": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "IN1+",
+            "swap_group": 0
+        },
+        "a37f1b1a-4023-4930-8480-11d61a4a2c2a": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "BIAS1",
+            "swap_group": 0
+        },
+        "b8e5cfb0-a0ed-40ec-8252-638a9fd10ec7": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "DIRN/OUT2",
+            "swap_group": 0
+        },
+        "c4e0ba17-a726-4665-9c60-610069bb754d": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ZERO_EN/OUT1",
+            "swap_group": 0
+        },
+        "c6f170f3-6899-4cf2-95d5-f2041f326d4d": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "IN2+",
+            "swap_group": 0
+        },
+        "cda5a7e7-6fa6-4fd4-9274-6e03993ed6db": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "IN1-",
+            "swap_group": 0
+        },
+        "d8124426-c861-449c-b0a1-9025c2ccf1f5": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "e107e08f-5bd6-44c8-a5ec-f4fbbd004065": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "INT_THRS2",
+            "swap_group": 0
+        },
+        "e129a3d9-a6c3-455f-a6f5-e8e7f2815c1f": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "EXT",
+            "swap_group": 0
+        },
+        "e2270c54-3cb2-411d-9229-c1b7d4f1b762": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "EXT2",
+            "swap_group": 0
+        },
+        "f829601f-f661-477a-84d3-13fbe031f471": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "COUT2",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "a15444c7-c6af-4d1f-bf0c-31d1a0ac6c19"
+}

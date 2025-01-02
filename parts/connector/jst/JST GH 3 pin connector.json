@@ -1,0 +1,45 @@
+{
+    "MPN": [
+        false,
+        "JST GH 3 pin connector"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "JST GH 3 pin connector"
+    ],
+    "entity": "dac08463-17e8-4eb3-b5b4-4d7be5775379",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "93e93074-207f-45bb-8934-3b336c63f37e",
+    "package": "3f69fa16-4bc5-4942-82a1-c7e7aa9dcbec",
+    "pad_map": {
+        "0de4c010-f337-422b-9b7f-fbbcc5eeffa3": {
+            "gate": "6cbea03f-31ec-49ea-9903-b9bf7b26e340",
+            "pin": "4c0e5d34-b007-432d-880b-3a3b8e963a14"
+        },
+        "7ed9dae2-720a-42e5-b971-a314a889f8c8": {
+            "gate": "6cbea03f-31ec-49ea-9903-b9bf7b26e340",
+            "pin": "1803365d-f745-4921-a54f-c5df6afa6561"
+        },
+        "a6d84f7e-18cc-4f36-99e6-ba3aa6673ae9": {
+            "gate": "6cbea03f-31ec-49ea-9903-b9bf7b26e340",
+            "pin": "b22250f7-9956-4ac8-ada1-725b7ba800c8"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "f1d0224d-7a7e-4591-b762-446797453448",
+    "value": [
+        false,
+        ""
+    ]
+}

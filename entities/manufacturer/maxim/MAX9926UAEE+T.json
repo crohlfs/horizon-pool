@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "86eba7be-04d9-4dd8-8ef6-b14ef2242d36": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "a15444c7-c6af-4d1f-bf0c-31d1a0ac6c19"
+        }
+    },
+    "manufacturer": "",
+    "name": "MAX9926UAEE+T",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "1027434c-0eb6-4b93-9aa5-059d5e956ce7"
+}

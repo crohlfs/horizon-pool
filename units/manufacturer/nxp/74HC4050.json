@@ -1,0 +1,92 @@
+{
+    "manufacturer": "NXP",
+    "name": "74HC4050",
+    "pins": {
+        "1fb22448-80f5-4fd2-bbce-58f5c2cce14d": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "3Y",
+            "swap_group": 0
+        },
+        "26536325-86b8-4ae6-8d4b-ee7bbf7a930e": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "6Y",
+            "swap_group": 0
+        },
+        "33ad7fee-9ba6-4578-baa0-8cd171de8bb9": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "2Y",
+            "swap_group": 0
+        },
+        "3914889f-4a63-48c5-9797-0b3c1d46e667": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "6A",
+            "swap_group": 0
+        },
+        "3b08d951-c830-445b-997a-6ea341577ba4": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "5Y",
+            "swap_group": 0
+        },
+        "3daa6404-fe0b-4615-a375-314065752dcb": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "1Y",
+            "swap_group": 0
+        },
+        "4100e2b1-873f-4632-9163-908f354adc1a": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "3A",
+            "swap_group": 0
+        },
+        "4b59c092-09c0-4da7-876a-77aa166e2931": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "5A",
+            "swap_group": 0
+        },
+        "613f5ae3-64fe-4f83-91fc-e0afbb38eb0e": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "2A",
+            "swap_group": 0
+        },
+        "85f34067-d2ad-48de-8d53-11599b8dc5b5": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "a5f7edc5-1e4e-48d0-8e90-f165dd21d2ee": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "1A",
+            "swap_group": 0
+        },
+        "b1ad682b-eeb4-467b-92b3-fb16b7929354": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "4Y",
+            "swap_group": 0
+        },
+        "cc7aca64-a807-4f64-befa-19c8b235d5bc": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "ed51a80e-4383-4bc6-8a58-b70b1477a573": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "4A",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "e3ac42e2-832d-48b9-83bd-fb52ac77fe78"
+}

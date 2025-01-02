@@ -1,0 +1,57 @@
+{
+    "MPN": [
+        false,
+        "JST GH 6 pin connector"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "JST GH 6 pin connector"
+    ],
+    "entity": "c92588a0-86ac-4b1c-aa07-b591777d2617",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "39e7de5f-c385-4192-80f4-267992bb3893",
+    "package": "b33a8ab1-3aeb-4591-b0d0-8cb165afafb2",
+    "pad_map": {
+        "1550a806-e980-46e6-94b8-1ce96db762ff": {
+            "gate": "d5f74729-19b9-4eba-87f9-f789bd6babf8",
+            "pin": "d5465e9d-439d-4a9c-b2a6-9ff92edf1f63"
+        },
+        "1925c683-c107-429d-a929-65b6deba3066": {
+            "gate": "d5f74729-19b9-4eba-87f9-f789bd6babf8",
+            "pin": "dd9ef2c9-0256-4f19-b1a9-2a4dffd82261"
+        },
+        "1db0d44c-d09b-45d2-bb88-96de37327772": {
+            "gate": "d5f74729-19b9-4eba-87f9-f789bd6babf8",
+            "pin": "c3b4ba45-ad58-43eb-9709-a71e815d9012"
+        },
+        "1de9df83-47c7-4a26-8750-ecc992916175": {
+            "gate": "d5f74729-19b9-4eba-87f9-f789bd6babf8",
+            "pin": "203bb8a2-729f-4d85-9078-2023b941401f"
+        },
+        "92b517af-586c-4a1d-8a79-166b9103a454": {
+            "gate": "d5f74729-19b9-4eba-87f9-f789bd6babf8",
+            "pin": "b8924622-e129-4d44-a4ec-46cccc6fbcaf"
+        },
+        "f68fba63-4fe9-4040-a506-b913f6a72a5b": {
+            "gate": "d5f74729-19b9-4eba-87f9-f789bd6babf8",
+            "pin": "4b24441b-cbeb-49bc-9a30-277a9a11c2b6"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "011f05d8-d9b7-4ad9-9804-f72e337fc0d3",
+    "value": [
+        false,
+        ""
+    ]
+}

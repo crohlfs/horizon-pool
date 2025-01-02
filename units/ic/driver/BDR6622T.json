@@ -1,0 +1,104 @@
+{
+    "manufacturer": "Bardeen Micro.",
+    "name": "BDR6622T",
+    "pins": {
+        "02278195-7153-4fea-82b6-1330065183a3": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "1c81eebd-498f-40a2-b724-61003cf2b0dc": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "ASEN",
+            "swap_group": 0
+        },
+        "42f64106-bb4b-4c3c-a242-decf9340b366": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VIN",
+            "swap_group": 0
+        },
+        "5f25c32f-0201-41ab-ad13-bd633574efbd": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "67080a5c-6c59-4ca0-ade1-25bc148dc972": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "AIN1",
+            "swap_group": 0
+        },
+        "696990a5-fc1e-4c03-8985-79a6f88eb65b": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "FAULT",
+            "swap_group": 0
+        },
+        "70b0a2e9-a4c4-4f37-86f2-0baa5bf260ff": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "BOUT1",
+            "swap_group": 0
+        },
+        "767deef8-59a9-4a69-bc4a-a5a5353088b6": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "AOUT2",
+            "swap_group": 0
+        },
+        "81a842eb-acde-41d9-9343-f9cf520d0421": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "BIN2",
+            "swap_group": 0
+        },
+        "b32d4a7b-eed5-4d38-a0a6-ebefb474cd2a": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "AIN2",
+            "swap_group": 0
+        },
+        "b7d03e6a-ce0e-4c8c-82ae-29f81ec3dd68": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "BSEN",
+            "swap_group": 0
+        },
+        "bc80de34-f529-40c5-b462-923796c20916": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "BST",
+            "swap_group": 0
+        },
+        "bd3cf825-505c-42f5-9090-d4e8ce836000": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "AOUT1",
+            "swap_group": 0
+        },
+        "d8771210-3d35-49bf-bb86-f74aad224a9b": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "BOUT2",
+            "swap_group": 0
+        },
+        "d9e7afbf-2018-4a20-be23-627d08777f05": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "BIN1",
+            "swap_group": 0
+        },
+        "df864d78-1879-4ee4-9033-cfa145ff90dd": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "nSLEEP",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "9ca25437-9882-40b8-b966-88de9dcd89de"
+}

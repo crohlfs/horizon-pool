@@ -1,0 +1,45 @@
+{
+    "MPN": [
+        false,
+        "Integra mirror control slider 2p B"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Integra mirror control slider 2p B"
+    ],
+    "entity": "dac08463-17e8-4eb3-b5b4-4d7be5775379",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "3acf08da-5ace-4b94-865a-9bcc7f642836",
+    "pad_map": {
+        "5b3c7b6f-e762-42ca-8050-46ab34777dec": {
+            "gate": "6cbea03f-31ec-49ea-9903-b9bf7b26e340",
+            "pin": "b22250f7-9956-4ac8-ada1-725b7ba800c8"
+        },
+        "91d3c8ad-d8af-45de-a795-ec465353d62e": {
+            "gate": "6cbea03f-31ec-49ea-9903-b9bf7b26e340",
+            "pin": "1803365d-f745-4921-a54f-c5df6afa6561"
+        },
+        "b3b99275-3456-4bf4-8292-352a234d029a": {
+            "gate": "6cbea03f-31ec-49ea-9903-b9bf7b26e340",
+            "pin": "4c0e5d34-b007-432d-880b-3a3b8e963a14"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "acb80f46-7f78-4215-97ba-3cfd769ddc76",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "MPN": [
+        false,
+        "JST GH 12 pin connector"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "JST GH 12 pin connector"
+    ],
+    "entity": "601377b4-7b7f-4188-ad29-7f20456e45fd",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "bddd9c14-74c0-4a3d-8cf6-a42a6cc579e7",
+    "package": "907a53a3-6998-4696-bc89-b89462b561e1",
+    "pad_map": {
+        "04fb0ac8-e926-49ed-8a75-745f9b036c31": {
+            "gate": "c4076adc-440d-4676-85cc-1e9dab60a1a7",
+            "pin": "b9434408-d4f0-4a9a-bcff-7cb12b4dd7b0"
+        },
+        "1e606745-99c3-4554-aabe-f175659a9971": {
+            "gate": "c4076adc-440d-4676-85cc-1e9dab60a1a7",
+            "pin": "27605efb-7b9c-4cdd-8b02-386be7bd4577"
+        },
+        "2ddc272a-5645-461a-a7ea-959ff42f3c8d": {
+            "gate": "c4076adc-440d-4676-85cc-1e9dab60a1a7",
+            "pin": "5eda4932-f668-42cc-a86f-35e632a664eb"
+        },
+        "4bcaf819-35fc-40c9-a94a-9da98e6cd548": {
+            "gate": "c4076adc-440d-4676-85cc-1e9dab60a1a7",
+            "pin": "b2370912-533e-44af-b455-f62cdf45a66e"
+        },
+        "4d41b046-13e2-40c9-983f-e27ac640a3ea": {
+            "gate": "c4076adc-440d-4676-85cc-1e9dab60a1a7",
+            "pin": "8a7e4dae-273e-4378-9d78-46ed1c309e72"
+        },
+        "590b354e-c5a5-48cc-be39-86191c4a5f09": {
+            "gate": "c4076adc-440d-4676-85cc-1e9dab60a1a7",
+            "pin": "cc9ab8eb-61df-4944-a20a-9a81177b52d0"
+        },
+        "6a45cc08-cf2a-409a-aa3e-5ce4d19987fd": {
+            "gate": "c4076adc-440d-4676-85cc-1e9dab60a1a7",
+            "pin": "4d7e48f4-2097-4d82-915d-fcc147b0ad91"
+        },
+        "6cb1e967-548a-4561-94f1-bcad390f1d8e": {
+            "gate": "c4076adc-440d-4676-85cc-1e9dab60a1a7",
+            "pin": "95fff755-8d2c-4637-b917-a913153f5dfe"
+        },
+        "6f010269-4f67-4852-951f-253636c9a210": {
+            "gate": "c4076adc-440d-4676-85cc-1e9dab60a1a7",
+            "pin": "6ff32901-0805-411a-b237-e07eade0fdae"
+        },
+        "826cab8c-66e3-4c3b-986c-f2608fddd89a": {
+            "gate": "c4076adc-440d-4676-85cc-1e9dab60a1a7",
+            "pin": "3deb99f0-8ff8-4519-a1de-17a8e39b67d7"
+        },
+        "d42cee3a-9397-4197-b19e-21f5fbfa9203": {
+            "gate": "c4076adc-440d-4676-85cc-1e9dab60a1a7",
+            "pin": "906c872f-74a9-4f09-be71-d2274df942ec"
+        },
+        "f7495292-eaf6-4fec-b68a-e571d9bcb27f": {
+            "gate": "c4076adc-440d-4676-85cc-1e9dab60a1a7",
+            "pin": "8666c902-019a-4f77-9272-4b9cfea8115f"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "26df3412-55b8-4720-a540-5f7e027db360",
+    "value": [
+        false,
+        ""
+    ]
+}
